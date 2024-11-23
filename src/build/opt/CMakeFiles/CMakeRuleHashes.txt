@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+4d81bdf31800e39684956b0a922fbadb deps/dynamorio/api/docs/CMakeFiles/embed_docs
+4d81bdf31800e39684956b0a922fbadb deps/dynamorio/api/docs/CMakeFiles/htmldocs
+be191107d1462360977207102cd7c122 deps/dynamorio/api/docs/Doxyfile
+18494079f20baccaeb99a170f298634d deps/dynamorio/api/docs/embed/Doxyfile
+dc73228078103a33417d8be716a25453 deps/dynamorio/api/docs/embed/html/index.html
+6ca91b574f78ea926924c8837ceecaab deps/dynamorio/api/docs/html/index.html
+11d6a6de65170ee6f3f6c4855c04cfeb deps/dynamorio/clients/drcachesim/CMakeFiles/drcachesim_docs
+ac34245dbba2d71a92af373a8c85511f deps/dynamorio/clients/drcachesim/docs/drcachesim.dox
+74cd89b11f8037b6c97ad98b7cf70885 deps/dynamorio/clients/drcov/CMakeFiles/drcov_docs
+6e08c672467658ebb5d551496240852c deps/dynamorio/clients/drcov/drcov.dox
+026c5dccbea5cc648a41ffb99613769a deps/dynamorio/clients/drcpusim/CMakeFiles/drcpusim_docs
+3f175734b7519da8da8da45e07a06823 deps/dynamorio/clients/drcpusim/drcpusim.dox
+dc5efd669abe5b6d1cf1f0c676e49e28 deps/dynamorio/core/CMakeFiles/generate_syslog
+630cf8b665c19c7ad8613e2540e57d6a deps/dynamorio/event_strings.h
