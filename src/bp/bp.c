@@ -89,6 +89,21 @@ extern List       op_buf;
 extern uns        operating_mode;
 
 /******************************************************************************/
+// Project start
+#define BHR_BITS 10  // Number of bits in the Branch History Register
+#define PHT_ENTRIES (1 << BHR_BITS)  // Size of the Pattern History Table
+
+typedef struct {
+    uint32_t bhr;          // Global Branch History Register (GHR)
+    uint8_t pht[PHT_ENTRIES];  // Pattern History Table: 2-bit counters
+} Two_Level_Predictor;
+
+Two_Level_Predictor two_level_pred;
+
+//project end
+
+
+
 // Local prototypes
 
 /******************************************************************************/
@@ -126,6 +141,16 @@ void init_bp_recovery_info(uns8              proc_id,
 
 
 /******************************************************************************/
+
+//project start
+void two_level_init() {
+    two_level_pred.bhr = 0;  // Initialize BHR to 0
+    for (int i = 0; i < PHT_ENTRIES; i++) {
+        two_level_pred.pht[i] = 2; 
+    }
+}
+
+//project end
 /* bp_sched_recover: called on a mispredicted op when it's misprediction is
    first realized */
 
