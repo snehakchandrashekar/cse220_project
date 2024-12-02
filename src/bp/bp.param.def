@@ -154,3 +154,12 @@ DEF_PARAM(  perceptron_conf_his_both_length  , PERCEPTRON_CONF_HIS_BOTH_LENGTH  
 
 DEF_PARAM(  mtage_realistic_sc_40k  , MTAGE_REALISTIC_SC_40K   , Flag    , Flag        , FALSE     ,           )
 DEF_PARAM(  mtage_realistic_sc_100k  , MTAGE_REALISTIC_SC_100K   , Flag    , Flag        , FALSE     ,           )
+
+/* Existing parameters... */
+
+// Two-Level Adaptive Branch Predictor Parameters
+DEF_PARAM(  bp_two_level_type,      BP_TWO_LEVEL_TYPE,      uns,     uns,         0,          ) // 0: GAg, 1: GAp, 2: PAg, 3: PAp
+DEF_PARAM(  tl_bht_entries,         TL_BHT_ENTRIES,         uns,     uns,         (4 * 1024), )
+DEF_PARAM(  tl_bht_entry_bits,      TL_BHT_ENTRY_BITS,      uns,     uns,         8,          ) // History length
+DEF_PARAM(  tl_pht_entries,         TL_PHT_ENTRIES,         uns,     uns,         (4 * 1024), )
+DEF_PARAM(  tl_pht_ctr_bits,        TL_PHT_CTR_BITS,        uns,     uns,         2,          ) // Number of bits per PHT counter
