@@ -1,24 +1,18 @@
-#ifndef __TWO_LEVEL_H__
-#define __TWO_LEVEL_H__
+// two_level.h
 
-#ifdef __cplusplus
-extern "C" {
-#endif
+#ifndef TWO_LEVEL_H
+#define TWO_LEVEL_H
 
-#include "bp/bp.h"
+#include "op.h"
 
-/*************Interface to Scarab***************/
 void bp_two_level_init(void);
-void bp_two_level_timestamp(Op*);
-uns8 bp_two_level_pred(Op*);
-void bp_two_level_spec_update(Op*);
-void bp_two_level_update(Op*);
-void bp_two_level_retire(Op*);
-void bp_two_level_recover(Recovery_Info*);
-uns8 bp_two_level_full(uns);
+uns8 bp_two_level_pred(Op* op);
+void bp_two_level_spec_update(Op* op);
+void bp_two_level_update(Op* op);
+void bp_two_level_recover(Recovery_Info* info);
+void bp_two_level_retire(Op* op);
+void bp_two_level_timestamp(Op* op);
+uns8 bp_two_level_full(uns proc_id);
+void bp_two_level_free(void); // Add this prototype
 
-#ifdef __cplusplus
-}
-#endif
-
-#endif  // __TWO_LEVEL_H__
+#endif // TWO_LEVEL_H
