@@ -1,0 +1,3527 @@
+Core, 0
+Cumulative Cycles, 26226453            
+Cumulative Instructions, 20000000            
+Cumulative IPC, 0.76259
+Periodic Cycles, 13158745            
+Periodic Instructions, 10000000            
+Periodic IPC, 0.75995
+
+BTB_ON_PATH_MISS_count,        185942
+BTB_ON_PATH_MISS_pct,        8.562
+BTB_ON_PATH_MISS_total_count,        383436
+BTB_ON_PATH_MISS_total_pct,        9.144
+
+BTB_ON_PATH_HIT_count,       1985814
+BTB_ON_PATH_HIT_pct,       91.438
+BTB_ON_PATH_HIT_total_count,       3809696
+BTB_ON_PATH_HIT_total_pct,       90.856
+BTB_ON_PATH_HIT_sum_count,       2171756
+BTB_ON_PATH_HIT_sum_pct,      100.000
+BTB_ON_PATH_HIT_sum_total_count,       4193132
+BTB_ON_PATH_HIT_sum_total_pct,      100.000
+BTB_ON_PATH_HIT_mean,         0.91
+BTB_ON_PATH_HIT_stddev,         0.88
+BTB_ON_PATH_HIT_total_mean,         0.91
+BTB_ON_PATH_HIT_total_stddev,         0.87
+
+BTB_OFF_PATH_MISS_count,       2969421
+BTB_OFF_PATH_MISS_pct,       21.907
+BTB_OFF_PATH_MISS_total_count,       5719025
+BTB_OFF_PATH_MISS_total_pct,       22.106
+
+BTB_OFF_PATH_HIT_count,      10585187
+BTB_OFF_PATH_HIT_pct,       78.093
+BTB_OFF_PATH_HIT_total_count,      20151741
+BTB_OFF_PATH_HIT_total_pct,       77.894
+BTB_OFF_PATH_HIT_sum_count,      13554608
+BTB_OFF_PATH_HIT_sum_pct,      100.000
+BTB_OFF_PATH_HIT_sum_total_count,      25870766
+BTB_OFF_PATH_HIT_sum_total_pct,      100.000
+BTB_OFF_PATH_HIT_mean,         0.78
+BTB_OFF_PATH_HIT_stddev,         0.72
+BTB_OFF_PATH_HIT_total_mean,         0.78
+BTB_OFF_PATH_HIT_total_stddev,         0.71
+
+BTB_ON_PATH_WRITE_count,         32837
+BTB_ON_PATH_WRITE_pct,       98.132
+BTB_ON_PATH_WRITE_total_count,         70047
+BTB_ON_PATH_WRITE_total_pct,       98.576
+
+BTB_OFF_PATH_WRITE_count,           625
+BTB_OFF_PATH_WRITE_pct,        1.868
+BTB_OFF_PATH_WRITE_total_count,          1012
+BTB_OFF_PATH_WRITE_total_pct,        1.424
+BTB_OFF_PATH_WRITE_sum_count,         33462
+BTB_OFF_PATH_WRITE_sum_pct,      100.000
+BTB_OFF_PATH_WRITE_sum_total_count,         71059
+BTB_OFF_PATH_WRITE_sum_total_pct,      100.000
+BTB_OFF_PATH_WRITE_mean,         0.02
+BTB_OFF_PATH_WRITE_stddev,         0.13
+BTB_OFF_PATH_WRITE_total_mean,         0.01
+BTB_OFF_PATH_WRITE_total_stddev,         0.12
+
+BP_ON_PATH_CORRECT_count,       1946925
+BP_ON_PATH_CORRECT_pct,       89.648
+BP_ON_PATH_CORRECT_total_count,       3684098
+BP_ON_PATH_CORRECT_total_pct,       87.860
+
+BP_ON_PATH_MISPREDICT_count,        224735
+BP_ON_PATH_MISPREDICT_pct,       10.348
+BP_ON_PATH_MISPREDICT_total_count,        508848
+BP_ON_PATH_MISPREDICT_total_pct,       12.135
+
+BP_ON_PATH_MISFETCH_count,            96
+BP_ON_PATH_MISFETCH_pct,        0.004
+BP_ON_PATH_MISFETCH_total_count,           186
+BP_ON_PATH_MISFETCH_total_pct,        0.004
+BP_ON_PATH_MISFETCH_sum_count,       2171756
+BP_ON_PATH_MISFETCH_sum_pct,      100.000
+BP_ON_PATH_MISFETCH_sum_total_count,       4193132
+BP_ON_PATH_MISFETCH_sum_total_pct,      100.000
+BP_ON_PATH_MISFETCH_mean,         0.10
+BP_ON_PATH_MISFETCH_stddev,         0.29
+BP_ON_PATH_MISFETCH_total_mean,         0.12
+BP_ON_PATH_MISFETCH_total_stddev,         0.31
+
+BP_OFF_PATH_CORRECT_count,       7825300
+BP_OFF_PATH_CORRECT_pct,       57.732
+BP_OFF_PATH_CORRECT_total_count,      14797523
+BP_OFF_PATH_CORRECT_total_pct,       57.198
+
+BP_OFF_PATH_MISPREDICT_count,       5292790
+BP_OFF_PATH_MISPREDICT_pct,       39.048
+BP_OFF_PATH_MISPREDICT_total_count,      10226431
+BP_OFF_PATH_MISPREDICT_total_pct,       39.529
+
+BP_OFF_PATH_MISFETCH_count,        436518
+BP_OFF_PATH_MISFETCH_pct,        3.220
+BP_OFF_PATH_MISFETCH_total_count,        846812
+BP_OFF_PATH_MISFETCH_total_pct,        3.273
+BP_OFF_PATH_MISFETCH_sum_count,      13554608
+BP_OFF_PATH_MISFETCH_sum_pct,      100.000
+BP_OFF_PATH_MISFETCH_sum_total_count,      25870766
+BP_OFF_PATH_MISFETCH_sum_total_pct,      100.000
+BP_OFF_PATH_MISFETCH_mean,         0.45
+BP_OFF_PATH_MISFETCH_stddev,         0.45
+BP_OFF_PATH_MISFETCH_total_mean,         0.46
+BP_OFF_PATH_MISFETCH_total_stddev,         0.45
+
+LATE_BP_ON_PATH_CORRECT_count,       2171756
+LATE_BP_ON_PATH_CORRECT_pct,      100.000
+LATE_BP_ON_PATH_CORRECT_total_count,       4193132
+LATE_BP_ON_PATH_CORRECT_total_pct,      100.000
+
+LATE_BP_ON_PATH_MISPREDICT_count,             0
+LATE_BP_ON_PATH_MISPREDICT_pct,        0.000
+LATE_BP_ON_PATH_MISPREDICT_total_count,             0
+LATE_BP_ON_PATH_MISPREDICT_total_pct,        0.000
+
+LATE_BP_ON_PATH_MISFETCH_count,             0
+LATE_BP_ON_PATH_MISFETCH_pct,        0.000
+LATE_BP_ON_PATH_MISFETCH_total_count,             0
+LATE_BP_ON_PATH_MISFETCH_total_pct,        0.000
+LATE_BP_ON_PATH_MISFETCH_sum_count,       2171756
+LATE_BP_ON_PATH_MISFETCH_sum_pct,      100.000
+LATE_BP_ON_PATH_MISFETCH_sum_total_count,       4193132
+LATE_BP_ON_PATH_MISFETCH_sum_total_pct,      100.000
+LATE_BP_ON_PATH_MISFETCH_mean,         0.00
+LATE_BP_ON_PATH_MISFETCH_stddev,         0.00
+LATE_BP_ON_PATH_MISFETCH_total_mean,         0.00
+LATE_BP_ON_PATH_MISFETCH_total_stddev,         0.00
+
+LATE_BP_OFF_PATH_CORRECT_count,      13554608
+LATE_BP_OFF_PATH_CORRECT_pct,      100.000
+LATE_BP_OFF_PATH_CORRECT_total_count,      25870766
+LATE_BP_OFF_PATH_CORRECT_total_pct,      100.000
+
+LATE_BP_OFF_PATH_MISPREDICT_count,             0
+LATE_BP_OFF_PATH_MISPREDICT_pct,        0.000
+LATE_BP_OFF_PATH_MISPREDICT_total_count,             0
+LATE_BP_OFF_PATH_MISPREDICT_total_pct,        0.000
+
+LATE_BP_OFF_PATH_MISFETCH_count,             0
+LATE_BP_OFF_PATH_MISFETCH_pct,        0.000
+LATE_BP_OFF_PATH_MISFETCH_total_count,             0
+LATE_BP_OFF_PATH_MISFETCH_total_pct,        0.000
+LATE_BP_OFF_PATH_MISFETCH_sum_count,      13554608
+LATE_BP_OFF_PATH_MISFETCH_sum_pct,      100.000
+LATE_BP_OFF_PATH_MISFETCH_sum_total_count,      25870766
+LATE_BP_OFF_PATH_MISFETCH_sum_total_pct,      100.000
+LATE_BP_OFF_PATH_MISFETCH_mean,         0.00
+LATE_BP_OFF_PATH_MISFETCH_stddev,         0.00
+LATE_BP_OFF_PATH_MISFETCH_total_mean,         0.00
+LATE_BP_OFF_PATH_MISFETCH_total_stddev,         0.00
+
+BP_ON_PATH_CONF_PVN_count,             0
+BP_ON_PATH_CONF_PVN_pct,         -nan
+BP_ON_PATH_CONF_PVN_total_count,             0
+BP_ON_PATH_CONF_PVN_total_pct,         -nan
+
+BP_ON_PATH_CONF_PVN_BOT_count,             0
+BP_ON_PATH_CONF_PVN_BOT_pct,         -nan
+BP_ON_PATH_CONF_PVN_BOT_total_count,             0
+BP_ON_PATH_CONF_PVN_BOT_total_pct,         -nan
+BP_ON_PATH_CONF_PVN_BOT_sum_count,             0
+BP_ON_PATH_CONF_PVN_BOT_sum_pct,         -nan
+BP_ON_PATH_CONF_PVN_BOT_sum_total_count,             0
+BP_ON_PATH_CONF_PVN_BOT_sum_total_pct,         -nan
+BP_ON_PATH_CONF_PVN_BOT_mean,         -nan
+BP_ON_PATH_CONF_PVN_BOT_stddev,         -nan
+BP_ON_PATH_CONF_PVN_BOT_total_mean,         -nan
+BP_ON_PATH_CONF_PVN_BOT_total_stddev,         -nan
+
+BP_ON_PATH_CONF_PVP_count,             0
+BP_ON_PATH_CONF_PVP_pct,         -nan
+BP_ON_PATH_CONF_PVP_total_count,             0
+BP_ON_PATH_CONF_PVP_total_pct,         -nan
+
+BP_ON_PATH_CONF_PVP_BOT_count,             0
+BP_ON_PATH_CONF_PVP_BOT_pct,         -nan
+BP_ON_PATH_CONF_PVP_BOT_total_count,             0
+BP_ON_PATH_CONF_PVP_BOT_total_pct,         -nan
+BP_ON_PATH_CONF_PVP_BOT_sum_count,             0
+BP_ON_PATH_CONF_PVP_BOT_sum_pct,         -nan
+BP_ON_PATH_CONF_PVP_BOT_sum_total_count,             0
+BP_ON_PATH_CONF_PVP_BOT_sum_total_pct,         -nan
+BP_ON_PATH_CONF_PVP_BOT_mean,         -nan
+BP_ON_PATH_CONF_PVP_BOT_stddev,         -nan
+BP_ON_PATH_CONF_PVP_BOT_total_mean,         -nan
+BP_ON_PATH_CONF_PVP_BOT_total_stddev,         -nan
+
+BP_ON_PATH_CONF_SPEC_count,             0
+BP_ON_PATH_CONF_SPEC_pct,         -nan
+BP_ON_PATH_CONF_SPEC_total_count,             0
+BP_ON_PATH_CONF_SPEC_total_pct,         -nan
+
+BP_ON_PATH_CONF_SPEC_BOT_count,             0
+BP_ON_PATH_CONF_SPEC_BOT_pct,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_total_count,             0
+BP_ON_PATH_CONF_SPEC_BOT_total_pct,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_sum_count,             0
+BP_ON_PATH_CONF_SPEC_BOT_sum_pct,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_sum_total_count,             0
+BP_ON_PATH_CONF_SPEC_BOT_sum_total_pct,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_mean,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_stddev,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_total_mean,         -nan
+BP_ON_PATH_CONF_SPEC_BOT_total_stddev,         -nan
+
+CRS_MISS_ON_PATH_count,            90
+CRS_MISS_ON_PATH_pct,        0.132
+CRS_MISS_ON_PATH_total_count,           180
+CRS_MISS_ON_PATH_total_pct,        0.131
+
+CRS_HIT_ON_PATH_count,         67937
+CRS_HIT_ON_PATH_pct,       99.868
+CRS_HIT_ON_PATH_total_count,        137305
+CRS_HIT_ON_PATH_total_pct,       99.869
+CRS_HIT_ON_PATH_sum_count,         68027
+CRS_HIT_ON_PATH_sum_pct,      100.000
+CRS_HIT_ON_PATH_sum_total_count,        137485
+CRS_HIT_ON_PATH_sum_total_pct,      100.000
+CRS_HIT_ON_PATH_mean,         1.00
+CRS_HIT_ON_PATH_stddev,         1.00
+CRS_HIT_ON_PATH_total_mean,         1.00
+CRS_HIT_ON_PATH_total_stddev,         1.00
+
+CRS_MISS_OFF_PATH_count,        436963
+CRS_MISS_OFF_PATH_pct,       52.855
+CRS_MISS_OFF_PATH_total_count,        847658
+CRS_MISS_OFF_PATH_total_pct,       54.513
+
+CRS_HIT_OFF_PATH_count,        389756
+CRS_HIT_OFF_PATH_pct,       47.145
+CRS_HIT_OFF_PATH_total_count,        707306
+CRS_HIT_OFF_PATH_total_pct,       45.487
+CRS_HIT_OFF_PATH_sum_count,        826719
+CRS_HIT_OFF_PATH_sum_pct,      100.000
+CRS_HIT_OFF_PATH_sum_total_count,       1554964
+CRS_HIT_OFF_PATH_sum_total_pct,      100.000
+CRS_HIT_OFF_PATH_mean,         0.47
+CRS_HIT_OFF_PATH_stddev,         0.49
+CRS_HIT_OFF_PATH_total_mean,         0.45
+CRS_HIT_OFF_PATH_total_stddev,         0.48
+
+CRS_CLOBBER_count,             0
+CRS_CLOBBER_total_count,             0
+
+TARG_ON_PATH_MISS_count,         19100
+TARG_ON_PATH_MISS_pct,       27.049
+TARG_ON_PATH_MISS_total_count,         35517
+TARG_ON_PATH_MISS_total_pct,       24.913
+
+TARG_ON_PATH_HIT_count,         51513
+TARG_ON_PATH_HIT_pct,       72.951
+TARG_ON_PATH_HIT_total_count,        107045
+TARG_ON_PATH_HIT_total_pct,       75.087
+TARG_ON_PATH_HIT_sum_count,         70613
+TARG_ON_PATH_HIT_sum_pct,      100.000
+TARG_ON_PATH_HIT_sum_total_count,        142562
+TARG_ON_PATH_HIT_sum_total_pct,      100.000
+TARG_ON_PATH_HIT_mean,         0.73
+TARG_ON_PATH_HIT_stddev,         0.66
+TARG_ON_PATH_HIT_total_mean,         0.75
+TARG_ON_PATH_HIT_total_stddev,         0.69
+
+TARG_OFF_PATH_MISS_count,        700726
+TARG_OFF_PATH_MISS_pct,       89.591
+TARG_OFF_PATH_MISS_total_count,       1288101
+TARG_OFF_PATH_MISS_total_pct,       90.249
+
+TARG_OFF_PATH_HIT_count,         81417
+TARG_OFF_PATH_HIT_pct,       10.409
+TARG_OFF_PATH_HIT_total_count,        139175
+TARG_OFF_PATH_HIT_total_pct,        9.751
+TARG_OFF_PATH_HIT_sum_count,        782143
+TARG_OFF_PATH_HIT_sum_pct,      100.000
+TARG_OFF_PATH_HIT_sum_total_count,       1427276
+TARG_OFF_PATH_HIT_sum_total_pct,      100.000
+TARG_OFF_PATH_HIT_mean,         0.10
+TARG_OFF_PATH_HIT_stddev,         0.29
+TARG_OFF_PATH_HIT_total_mean,         0.10
+TARG_OFF_PATH_HIT_total_stddev,         0.28
+
+TARG_ON_PATH_WRITE_count,         70613
+TARG_ON_PATH_WRITE_pct,       45.675
+TARG_ON_PATH_WRITE_total_count,        142562
+TARG_ON_PATH_WRITE_total_pct,       49.430
+
+TARG_OFF_PATH_WRITE_count,         83987
+TARG_OFF_PATH_WRITE_pct,       54.325
+TARG_OFF_PATH_WRITE_total_count,        145847
+TARG_OFF_PATH_WRITE_total_pct,       50.570
+TARG_OFF_PATH_WRITE_sum_count,        154600
+TARG_OFF_PATH_WRITE_sum_pct,      100.000
+TARG_OFF_PATH_WRITE_sum_total_count,        288409
+TARG_OFF_PATH_WRITE_sum_total_pct,      100.000
+TARG_OFF_PATH_WRITE_mean,         0.54
+TARG_OFF_PATH_WRITE_stddev,         0.52
+TARG_OFF_PATH_WRITE_total_mean,         0.51
+TARG_OFF_PATH_WRITE_total_stddev,         0.50
+
+TARG_HYBRID_CORRECT_TAGLESS_count,             0
+TARG_HYBRID_CORRECT_TAGLESS_pct,         -nan
+TARG_HYBRID_CORRECT_TAGLESS_total_count,             0
+TARG_HYBRID_CORRECT_TAGLESS_total_pct,         -nan
+
+TARG_HYBRID_CORRECT_TAGGED_count,             0
+TARG_HYBRID_CORRECT_TAGGED_pct,         -nan
+TARG_HYBRID_CORRECT_TAGGED_total_count,             0
+TARG_HYBRID_CORRECT_TAGGED_total_pct,         -nan
+
+TARG_HYBRID_MISPRED_TAGLESS_count,             0
+TARG_HYBRID_MISPRED_TAGLESS_pct,         -nan
+TARG_HYBRID_MISPRED_TAGLESS_total_count,             0
+TARG_HYBRID_MISPRED_TAGLESS_total_pct,         -nan
+
+TARG_HYBRID_MISPRED_TAGGED_count,             0
+TARG_HYBRID_MISPRED_TAGGED_pct,         -nan
+TARG_HYBRID_MISPRED_TAGGED_total_count,             0
+TARG_HYBRID_MISPRED_TAGGED_total_pct,         -nan
+
+TARG_HYBRID_NO_PRED_count,             0
+TARG_HYBRID_NO_PRED_pct,         -nan
+TARG_HYBRID_NO_PRED_total_count,             0
+TARG_HYBRID_NO_PRED_total_pct,         -nan
+TARG_HYBRID_NO_PRED_sum_count,             0
+TARG_HYBRID_NO_PRED_sum_pct,         -nan
+TARG_HYBRID_NO_PRED_sum_total_count,             0
+TARG_HYBRID_NO_PRED_sum_total_pct,         -nan
+TARG_HYBRID_NO_PRED_mean,         -nan
+TARG_HYBRID_NO_PRED_stddev,         -nan
+TARG_HYBRID_NO_PRED_total_mean,         -nan
+TARG_HYBRID_NO_PRED_total_stddev,         -nan
+
+TARG_VP_INDIRECT_MISPRED_count,             0
+TARG_VP_INDIRECT_MISPRED_pct,         -nan
+TARG_VP_INDIRECT_MISPRED_total_count,             0
+TARG_VP_INDIRECT_MISPRED_total_pct,         -nan
+
+TARG_VP_INDIRECT_NOPRED_count,             0
+TARG_VP_INDIRECT_NOPRED_pct,         -nan
+TARG_VP_INDIRECT_NOPRED_total_count,             0
+TARG_VP_INDIRECT_NOPRED_total_pct,         -nan
+
+TARG_VP_INDIRECT_CORRECT_count,             0
+TARG_VP_INDIRECT_CORRECT_pct,         -nan
+TARG_VP_INDIRECT_CORRECT_total_count,             0
+TARG_VP_INDIRECT_CORRECT_total_pct,         -nan
+TARG_VP_INDIRECT_CORRECT_sum_count,             0
+TARG_VP_INDIRECT_CORRECT_sum_pct,         -nan
+TARG_VP_INDIRECT_CORRECT_sum_total_count,             0
+TARG_VP_INDIRECT_CORRECT_sum_total_pct,         -nan
+TARG_VP_INDIRECT_CORRECT_mean,         -nan
+TARG_VP_INDIRECT_CORRECT_stddev,         -nan
+TARG_VP_INDIRECT_CORRECT_total_mean,         -nan
+TARG_VP_INDIRECT_CORRECT_total_stddev,         -nan
+
+CBR_ON_PATH_CORRECT_count,       1703883
+CBR_ON_PATH_CORRECT_pct,       88.358
+CBR_ON_PATH_CORRECT_total_count,       3195447
+CBR_ON_PATH_CORRECT_total_pct,       86.317
+
+CBR_ON_PATH_MISPREDICT_count,        224493
+CBR_ON_PATH_MISPREDICT_pct,       11.642
+CBR_ON_PATH_MISPREDICT_total_count,        506536
+CBR_ON_PATH_MISPREDICT_total_pct,       13.683
+CBR_ON_PATH_MISPREDICT_sum_count,       1928376
+CBR_ON_PATH_MISPREDICT_sum_pct,      100.000
+CBR_ON_PATH_MISPREDICT_sum_total_count,       3701983
+CBR_ON_PATH_MISPREDICT_sum_total_pct,      100.000
+CBR_ON_PATH_MISPREDICT_mean,         0.12
+CBR_ON_PATH_MISPREDICT_stddev,         0.30
+CBR_ON_PATH_MISPREDICT_total_mean,         0.14
+CBR_ON_PATH_MISPREDICT_total_stddev,         0.32
+
+CBR_OFF_PATH_CORRECT_count,       5403037
+CBR_OFF_PATH_CORRECT_pct,       50.579
+CBR_OFF_PATH_CORRECT_total_count,      10322622
+CBR_OFF_PATH_CORRECT_total_pct,       50.286
+
+CBR_OFF_PATH_MISPREDICT_count,       5279366
+CBR_OFF_PATH_MISPREDICT_pct,       49.421
+CBR_OFF_PATH_MISPREDICT_total_count,      10205210
+CBR_OFF_PATH_MISPREDICT_total_pct,       49.714
+CBR_OFF_PATH_MISPREDICT_sum_count,      10682403
+CBR_OFF_PATH_MISPREDICT_sum_pct,      100.000
+CBR_OFF_PATH_MISPREDICT_sum_total_count,      20527832
+CBR_OFF_PATH_MISPREDICT_sum_total_pct,      100.000
+CBR_OFF_PATH_MISPREDICT_mean,         0.49
+CBR_OFF_PATH_MISPREDICT_stddev,         0.50
+CBR_OFF_PATH_MISPREDICT_total_mean,         0.50
+CBR_OFF_PATH_MISPREDICT_total_stddev,         0.50
+
+CBR_ON_PATH_CORRECT_PER1000INST_count,       1703883
+CBR_ON_PATH_CORRECT_PER1000INST_pct,       85.194
+CBR_ON_PATH_CORRECT_PER1000INST_total_count,       3195447
+CBR_ON_PATH_CORRECT_PER1000INST_total_pct,      159.772
+
+CBR_ON_PATH_MISPREDICT_PER1000INST_count,        224493
+CBR_ON_PATH_MISPREDICT_PER1000INST_pct,       11.225
+CBR_ON_PATH_MISPREDICT_PER1000INST_total_count,        506536
+CBR_ON_PATH_MISPREDICT_PER1000INST_total_pct,       25.327
+
+PRED_TO_UPDATE_CYCLES_0_count,             0
+PRED_TO_UPDATE_CYCLES_0_pct,         -nan
+PRED_TO_UPDATE_CYCLES_0_total_count,             0
+PRED_TO_UPDATE_CYCLES_0_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_1_count,             0
+PRED_TO_UPDATE_CYCLES_1_pct,         -nan
+PRED_TO_UPDATE_CYCLES_1_total_count,             0
+PRED_TO_UPDATE_CYCLES_1_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_2_count,             0
+PRED_TO_UPDATE_CYCLES_2_pct,         -nan
+PRED_TO_UPDATE_CYCLES_2_total_count,             0
+PRED_TO_UPDATE_CYCLES_2_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_3_count,             0
+PRED_TO_UPDATE_CYCLES_3_pct,         -nan
+PRED_TO_UPDATE_CYCLES_3_total_count,             0
+PRED_TO_UPDATE_CYCLES_3_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_4_count,             0
+PRED_TO_UPDATE_CYCLES_4_pct,         -nan
+PRED_TO_UPDATE_CYCLES_4_total_count,             0
+PRED_TO_UPDATE_CYCLES_4_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_5_count,             0
+PRED_TO_UPDATE_CYCLES_5_pct,         -nan
+PRED_TO_UPDATE_CYCLES_5_total_count,             0
+PRED_TO_UPDATE_CYCLES_5_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_6_count,             0
+PRED_TO_UPDATE_CYCLES_6_pct,         -nan
+PRED_TO_UPDATE_CYCLES_6_total_count,             0
+PRED_TO_UPDATE_CYCLES_6_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_7_count,             0
+PRED_TO_UPDATE_CYCLES_7_pct,         -nan
+PRED_TO_UPDATE_CYCLES_7_total_count,             0
+PRED_TO_UPDATE_CYCLES_7_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_8_count,             0
+PRED_TO_UPDATE_CYCLES_8_pct,         -nan
+PRED_TO_UPDATE_CYCLES_8_total_count,             0
+PRED_TO_UPDATE_CYCLES_8_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_9_count,             0
+PRED_TO_UPDATE_CYCLES_9_pct,         -nan
+PRED_TO_UPDATE_CYCLES_9_total_count,             0
+PRED_TO_UPDATE_CYCLES_9_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_10_count,             0
+PRED_TO_UPDATE_CYCLES_10_pct,         -nan
+PRED_TO_UPDATE_CYCLES_10_total_count,             0
+PRED_TO_UPDATE_CYCLES_10_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_11_count,             0
+PRED_TO_UPDATE_CYCLES_11_pct,         -nan
+PRED_TO_UPDATE_CYCLES_11_total_count,             0
+PRED_TO_UPDATE_CYCLES_11_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_12_count,             0
+PRED_TO_UPDATE_CYCLES_12_pct,         -nan
+PRED_TO_UPDATE_CYCLES_12_total_count,             0
+PRED_TO_UPDATE_CYCLES_12_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_13_count,             0
+PRED_TO_UPDATE_CYCLES_13_pct,         -nan
+PRED_TO_UPDATE_CYCLES_13_total_count,             0
+PRED_TO_UPDATE_CYCLES_13_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_14_count,             0
+PRED_TO_UPDATE_CYCLES_14_pct,         -nan
+PRED_TO_UPDATE_CYCLES_14_total_count,             0
+PRED_TO_UPDATE_CYCLES_14_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_15_count,             0
+PRED_TO_UPDATE_CYCLES_15_pct,         -nan
+PRED_TO_UPDATE_CYCLES_15_total_count,             0
+PRED_TO_UPDATE_CYCLES_15_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_16_count,             0
+PRED_TO_UPDATE_CYCLES_16_pct,         -nan
+PRED_TO_UPDATE_CYCLES_16_total_count,             0
+PRED_TO_UPDATE_CYCLES_16_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_17_count,             0
+PRED_TO_UPDATE_CYCLES_17_pct,         -nan
+PRED_TO_UPDATE_CYCLES_17_total_count,             0
+PRED_TO_UPDATE_CYCLES_17_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_18_count,             0
+PRED_TO_UPDATE_CYCLES_18_pct,         -nan
+PRED_TO_UPDATE_CYCLES_18_total_count,             0
+PRED_TO_UPDATE_CYCLES_18_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_19_count,             0
+PRED_TO_UPDATE_CYCLES_19_pct,         -nan
+PRED_TO_UPDATE_CYCLES_19_total_count,             0
+PRED_TO_UPDATE_CYCLES_19_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_20_count,             0
+PRED_TO_UPDATE_CYCLES_20_pct,         -nan
+PRED_TO_UPDATE_CYCLES_20_total_count,             0
+PRED_TO_UPDATE_CYCLES_20_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_21_count,             0
+PRED_TO_UPDATE_CYCLES_21_pct,         -nan
+PRED_TO_UPDATE_CYCLES_21_total_count,             0
+PRED_TO_UPDATE_CYCLES_21_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_22_count,             0
+PRED_TO_UPDATE_CYCLES_22_pct,         -nan
+PRED_TO_UPDATE_CYCLES_22_total_count,             0
+PRED_TO_UPDATE_CYCLES_22_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_23_count,             0
+PRED_TO_UPDATE_CYCLES_23_pct,         -nan
+PRED_TO_UPDATE_CYCLES_23_total_count,             0
+PRED_TO_UPDATE_CYCLES_23_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_24_count,             0
+PRED_TO_UPDATE_CYCLES_24_pct,         -nan
+PRED_TO_UPDATE_CYCLES_24_total_count,             0
+PRED_TO_UPDATE_CYCLES_24_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_25_count,             0
+PRED_TO_UPDATE_CYCLES_25_pct,         -nan
+PRED_TO_UPDATE_CYCLES_25_total_count,             0
+PRED_TO_UPDATE_CYCLES_25_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_26_count,             0
+PRED_TO_UPDATE_CYCLES_26_pct,         -nan
+PRED_TO_UPDATE_CYCLES_26_total_count,             0
+PRED_TO_UPDATE_CYCLES_26_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_27_count,             0
+PRED_TO_UPDATE_CYCLES_27_pct,         -nan
+PRED_TO_UPDATE_CYCLES_27_total_count,             0
+PRED_TO_UPDATE_CYCLES_27_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_28_count,             0
+PRED_TO_UPDATE_CYCLES_28_pct,         -nan
+PRED_TO_UPDATE_CYCLES_28_total_count,             0
+PRED_TO_UPDATE_CYCLES_28_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_29_count,             0
+PRED_TO_UPDATE_CYCLES_29_pct,         -nan
+PRED_TO_UPDATE_CYCLES_29_total_count,             0
+PRED_TO_UPDATE_CYCLES_29_total_pct,         -nan
+
+PRED_TO_UPDATE_CYCLES_30_count,             0
+PRED_TO_UPDATE_CYCLES_30_pct,         -nan
+PRED_TO_UPDATE_CYCLES_30_total_count,             0
+PRED_TO_UPDATE_CYCLES_30_total_pct,         -nan
+PRED_TO_UPDATE_CYCLES_30_sum_count,             0
+PRED_TO_UPDATE_CYCLES_30_sum_pct,         -nan
+PRED_TO_UPDATE_CYCLES_30_sum_total_count,             0
+PRED_TO_UPDATE_CYCLES_30_sum_total_pct,         -nan
+PRED_TO_UPDATE_CYCLES_30_mean,         -nan
+PRED_TO_UPDATE_CYCLES_30_stddev,         -nan
+PRED_TO_UPDATE_CYCLES_30_total_mean,         -nan
+PRED_TO_UPDATE_CYCLES_30_total_stddev,         -nan
+
+BP_CORRECTED_count,             0
+BP_CORRECTED_pct,         -nan
+BP_CORRECTED_total_count,             0
+BP_CORRECTED_total_pct,         -nan
+
+BP_NOT_CORRECTED_count,             0
+BP_NOT_CORRECTED_pct,         -nan
+BP_NOT_CORRECTED_total_count,             0
+BP_NOT_CORRECTED_total_pct,         -nan
+BP_NOT_CORRECTED_sum_count,             0
+BP_NOT_CORRECTED_sum_pct,         -nan
+BP_NOT_CORRECTED_sum_total_count,             0
+BP_NOT_CORRECTED_sum_total_pct,         -nan
+BP_NOT_CORRECTED_mean,         -nan
+BP_NOT_CORRECTED_stddev,         -nan
+BP_NOT_CORRECTED_total_mean,         -nan
+BP_NOT_CORRECTED_total_stddev,         -nan
+
+TARG_CORRECTED_count,             0
+TARG_CORRECTED_pct,         -nan
+TARG_CORRECTED_total_count,             0
+TARG_CORRECTED_total_pct,         -nan
+
+TARG_NOT_CORRECTED_count,             0
+TARG_NOT_CORRECTED_pct,         -nan
+TARG_NOT_CORRECTED_total_count,             0
+TARG_NOT_CORRECTED_total_pct,         -nan
+TARG_NOT_CORRECTED_sum_count,             0
+TARG_NOT_CORRECTED_sum_pct,         -nan
+TARG_NOT_CORRECTED_sum_total_count,             0
+TARG_NOT_CORRECTED_sum_total_pct,         -nan
+TARG_NOT_CORRECTED_mean,         -nan
+TARG_NOT_CORRECTED_stddev,         -nan
+TARG_NOT_CORRECTED_total_mean,         -nan
+TARG_NOT_CORRECTED_total_stddev,         -nan
+
+BP_MISP_PENALTY_count,       4977088
+BP_MISP_PENALTY_total_count,       9671183
+
+BP_ON_PATH_CONF_MISPRED_count,             0
+BP_ON_PATH_CONF_MISPRED_pct,         -nan
+BP_ON_PATH_CONF_MISPRED_total_count,             0
+BP_ON_PATH_CONF_MISPRED_total_pct,         -nan
+
+BP_ON_PATH_CONF_CORRECT_count,             0
+BP_ON_PATH_CONF_CORRECT_pct,         -nan
+BP_ON_PATH_CONF_CORRECT_total_count,             0
+BP_ON_PATH_CONF_CORRECT_total_pct,         -nan
+BP_ON_PATH_CONF_CORRECT_sum_count,             0
+BP_ON_PATH_CONF_CORRECT_sum_pct,         -nan
+BP_ON_PATH_CONF_CORRECT_sum_total_count,             0
+BP_ON_PATH_CONF_CORRECT_sum_total_pct,         -nan
+BP_ON_PATH_CONF_CORRECT_mean,         -nan
+BP_ON_PATH_CONF_CORRECT_stddev,         -nan
+BP_ON_PATH_CONF_CORRECT_total_mean,         -nan
+BP_ON_PATH_CONF_CORRECT_total_stddev,         -nan
+
+BP_OFF_PATH_CONF_MISPRED_count,             0
+BP_OFF_PATH_CONF_MISPRED_pct,         -nan
+BP_OFF_PATH_CONF_MISPRED_total_count,             0
+BP_OFF_PATH_CONF_MISPRED_total_pct,         -nan
+
+BP_OFF_PATH_CONF_CORRECT_count,             0
+BP_OFF_PATH_CONF_CORRECT_pct,         -nan
+BP_OFF_PATH_CONF_CORRECT_total_count,             0
+BP_OFF_PATH_CONF_CORRECT_total_pct,         -nan
+BP_OFF_PATH_CONF_CORRECT_sum_count,             0
+BP_OFF_PATH_CONF_CORRECT_sum_pct,         -nan
+BP_OFF_PATH_CONF_CORRECT_sum_total_count,             0
+BP_OFF_PATH_CONF_CORRECT_sum_total_pct,         -nan
+BP_OFF_PATH_CONF_CORRECT_mean,         -nan
+BP_OFF_PATH_CONF_CORRECT_stddev,         -nan
+BP_OFF_PATH_CONF_CORRECT_total_mean,         -nan
+BP_OFF_PATH_CONF_CORRECT_total_stddev,         -nan
+
+BP_ON_PATH_PRED_MIS_CONF_MISPRED_count,             0
+BP_ON_PATH_PRED_MIS_CONF_MISPRED_pct,         -nan
+BP_ON_PATH_PRED_MIS_CONF_MISPRED_total_count,             0
+BP_ON_PATH_PRED_MIS_CONF_MISPRED_total_pct,         -nan
+
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_count,             0
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_pct,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_total_count,             0
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_total_pct,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_sum_count,             0
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_sum_pct,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_sum_total_count,             0
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_sum_total_pct,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_mean,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_stddev,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_total_mean,         -nan
+BP_ON_PATH_PRED_MIS_CONF_CORRECT_total_stddev,         -nan
+
+BP_ON_PATH_PRED_COR_CONF_MISPRED_count,             0
+BP_ON_PATH_PRED_COR_CONF_MISPRED_pct,         -nan
+BP_ON_PATH_PRED_COR_CONF_MISPRED_total_count,             0
+BP_ON_PATH_PRED_COR_CONF_MISPRED_total_pct,         -nan
+
+BP_ON_PATH_PRED_COR_CONF_CORRECT_count,             0
+BP_ON_PATH_PRED_COR_CONF_CORRECT_pct,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_total_count,             0
+BP_ON_PATH_PRED_COR_CONF_CORRECT_total_pct,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_sum_count,             0
+BP_ON_PATH_PRED_COR_CONF_CORRECT_sum_pct,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_sum_total_count,             0
+BP_ON_PATH_PRED_COR_CONF_CORRECT_sum_total_pct,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_mean,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_stddev,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_total_mean,         -nan
+BP_ON_PATH_PRED_COR_CONF_CORRECT_total_stddev,         -nan
+
+BP_OFF_PATH_PRED_MIS_CONF_MISPRED_count,             0
+BP_OFF_PATH_PRED_MIS_CONF_MISPRED_pct,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_MISPRED_total_count,             0
+BP_OFF_PATH_PRED_MIS_CONF_MISPRED_total_pct,         -nan
+
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_count,             0
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_pct,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_total_count,             0
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_total_pct,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_sum_count,             0
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_sum_pct,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_sum_total_count,             0
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_sum_total_pct,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_mean,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_stddev,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_total_mean,         -nan
+BP_OFF_PATH_PRED_MIS_CONF_CORRECT_total_stddev,         -nan
+
+BP_OFF_PATH_PRED_COR_CONF_MISPRED_count,             0
+BP_OFF_PATH_PRED_COR_CONF_MISPRED_pct,         -nan
+BP_OFF_PATH_PRED_COR_CONF_MISPRED_total_count,             0
+BP_OFF_PATH_PRED_COR_CONF_MISPRED_total_pct,         -nan
+
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_count,             0
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_pct,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_total_count,             0
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_total_pct,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_sum_count,             0
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_sum_pct,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_sum_total_count,             0
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_sum_total_pct,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_mean,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_stddev,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_total_mean,         -nan
+BP_OFF_PATH_PRED_COR_CONF_CORRECT_total_stddev,         -nan
+
+ONPATH_CONF_MISPRED_count,             0
+ONPATH_CONF_MISPRED_pct,         -nan
+ONPATH_CONF_MISPRED_total_count,             0
+ONPATH_CONF_MISPRED_total_pct,         -nan
+
+ONPATH_CONF_CORRECT_count,             0
+ONPATH_CONF_CORRECT_pct,         -nan
+ONPATH_CONF_CORRECT_total_count,             0
+ONPATH_CONF_CORRECT_total_pct,         -nan
+ONPATH_CONF_CORRECT_sum_count,             0
+ONPATH_CONF_CORRECT_sum_pct,         -nan
+ONPATH_CONF_CORRECT_sum_total_count,             0
+ONPATH_CONF_CORRECT_sum_total_pct,         -nan
+ONPATH_CONF_CORRECT_mean,         -nan
+ONPATH_CONF_CORRECT_stddev,         -nan
+ONPATH_CONF_CORRECT_total_mean,         -nan
+ONPATH_CONF_CORRECT_total_stddev,         -nan
+
+ONPATH_ON_PATH_CONF_MISPRED_count,             0
+ONPATH_ON_PATH_CONF_MISPRED_pct,         -nan
+ONPATH_ON_PATH_CONF_MISPRED_total_count,             0
+ONPATH_ON_PATH_CONF_MISPRED_total_pct,         -nan
+
+ONPATH_ON_PATH_CONF_CORRECT_count,             0
+ONPATH_ON_PATH_CONF_CORRECT_pct,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_total_count,             0
+ONPATH_ON_PATH_CONF_CORRECT_total_pct,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_sum_count,             0
+ONPATH_ON_PATH_CONF_CORRECT_sum_pct,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_sum_total_count,             0
+ONPATH_ON_PATH_CONF_CORRECT_sum_total_pct,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_mean,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_stddev,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_total_mean,         -nan
+ONPATH_ON_PATH_CONF_CORRECT_total_stddev,         -nan
+
+ONPATH_OFF_PATH_CONF_MISPRED_count,             0
+ONPATH_OFF_PATH_CONF_MISPRED_pct,         -nan
+ONPATH_OFF_PATH_CONF_MISPRED_total_count,             0
+ONPATH_OFF_PATH_CONF_MISPRED_total_pct,         -nan
+
+ONPATH_OFF_PATH_CONF_CORRECT_count,             0
+ONPATH_OFF_PATH_CONF_CORRECT_pct,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_total_count,             0
+ONPATH_OFF_PATH_CONF_CORRECT_total_pct,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_sum_count,             0
+ONPATH_OFF_PATH_CONF_CORRECT_sum_pct,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_sum_total_count,             0
+ONPATH_OFF_PATH_CONF_CORRECT_sum_total_pct,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_mean,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_stddev,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_total_mean,         -nan
+ONPATH_OFF_PATH_CONF_CORRECT_total_stddev,         -nan
+
+PRED_ONPATH_CONF_MISPRED_count,             0
+PRED_ONPATH_CONF_MISPRED_pct,         -nan
+PRED_ONPATH_CONF_MISPRED_total_count,             0
+PRED_ONPATH_CONF_MISPRED_total_pct,         -nan
+
+PRED_ONPATH_CONF_CORRECT_count,             0
+PRED_ONPATH_CONF_CORRECT_pct,         -nan
+PRED_ONPATH_CONF_CORRECT_total_count,             0
+PRED_ONPATH_CONF_CORRECT_total_pct,         -nan
+PRED_ONPATH_CONF_CORRECT_sum_count,             0
+PRED_ONPATH_CONF_CORRECT_sum_pct,         -nan
+PRED_ONPATH_CONF_CORRECT_sum_total_count,             0
+PRED_ONPATH_CONF_CORRECT_sum_total_pct,         -nan
+PRED_ONPATH_CONF_CORRECT_mean,         -nan
+PRED_ONPATH_CONF_CORRECT_stddev,         -nan
+PRED_ONPATH_CONF_CORRECT_total_mean,         -nan
+PRED_ONPATH_CONF_CORRECT_total_stddev,         -nan
+
+PRED_OFFPATH_CONF_MISPRED_count,             0
+PRED_OFFPATH_CONF_MISPRED_pct,         -nan
+PRED_OFFPATH_CONF_MISPRED_total_count,             0
+PRED_OFFPATH_CONF_MISPRED_total_pct,         -nan
+
+PRED_OFFPATH_CONF_CORRECT_count,             0
+PRED_OFFPATH_CONF_CORRECT_pct,         -nan
+PRED_OFFPATH_CONF_CORRECT_total_count,             0
+PRED_OFFPATH_CONF_CORRECT_total_pct,         -nan
+PRED_OFFPATH_CONF_CORRECT_sum_count,             0
+PRED_OFFPATH_CONF_CORRECT_sum_pct,         -nan
+PRED_OFFPATH_CONF_CORRECT_sum_total_count,             0
+PRED_OFFPATH_CONF_CORRECT_sum_total_pct,         -nan
+PRED_OFFPATH_CONF_CORRECT_mean,         -nan
+PRED_OFFPATH_CONF_CORRECT_stddev,         -nan
+PRED_OFFPATH_CONF_CORRECT_total_mean,         -nan
+PRED_OFFPATH_CONF_CORRECT_total_stddev,         -nan
+
+LONG_OVWT_MIS_count,             0
+LONG_OVWT_MIS_pct,         -nan
+LONG_OVWT_MIS_total_count,             0
+LONG_OVWT_MIS_total_pct,         -nan
+
+LONG_OVWT_COR_count,             0
+LONG_OVWT_COR_pct,         -nan
+LONG_OVWT_COR_total_count,             0
+LONG_OVWT_COR_total_pct,         -nan
+LONG_OVWT_COR_sum_count,             0
+LONG_OVWT_COR_sum_pct,         -nan
+LONG_OVWT_COR_sum_total_count,             0
+LONG_OVWT_COR_sum_total_pct,         -nan
+LONG_OVWT_COR_mean,         -nan
+LONG_OVWT_COR_stddev,         -nan
+LONG_OVWT_COR_total_mean,         -nan
+LONG_OVWT_COR_total_stddev,         -nan
+
+OPC_LENGTH_0_7_MIS_count,             0
+OPC_LENGTH_0_7_MIS_pct,         -nan
+OPC_LENGTH_0_7_MIS_total_count,             0
+OPC_LENGTH_0_7_MIS_total_pct,         -nan
+
+OPC_LENGTH_0_7_COR_count,             0
+OPC_LENGTH_0_7_COR_pct,         -nan
+OPC_LENGTH_0_7_COR_total_count,             0
+OPC_LENGTH_0_7_COR_total_pct,         -nan
+OPC_LENGTH_0_7_COR_sum_count,             0
+OPC_LENGTH_0_7_COR_sum_pct,         -nan
+OPC_LENGTH_0_7_COR_sum_total_count,             0
+OPC_LENGTH_0_7_COR_sum_total_pct,         -nan
+OPC_LENGTH_0_7_COR_mean,         -nan
+OPC_LENGTH_0_7_COR_stddev,         -nan
+OPC_LENGTH_0_7_COR_total_mean,         -nan
+OPC_LENGTH_0_7_COR_total_stddev,         -nan
+
+OPC_LENGTH_8_15_MIS_count,             0
+OPC_LENGTH_8_15_MIS_pct,         -nan
+OPC_LENGTH_8_15_MIS_total_count,             0
+OPC_LENGTH_8_15_MIS_total_pct,         -nan
+
+OPC_LENGTH_8_15_COR_count,             0
+OPC_LENGTH_8_15_COR_pct,         -nan
+OPC_LENGTH_8_15_COR_total_count,             0
+OPC_LENGTH_8_15_COR_total_pct,         -nan
+OPC_LENGTH_8_15_COR_sum_count,             0
+OPC_LENGTH_8_15_COR_sum_pct,         -nan
+OPC_LENGTH_8_15_COR_sum_total_count,             0
+OPC_LENGTH_8_15_COR_sum_total_pct,         -nan
+OPC_LENGTH_8_15_COR_mean,         -nan
+OPC_LENGTH_8_15_COR_stddev,         -nan
+OPC_LENGTH_8_15_COR_total_mean,         -nan
+OPC_LENGTH_8_15_COR_total_stddev,         -nan
+
+OPC_LENGTH_16_23_MIS_count,             0
+OPC_LENGTH_16_23_MIS_pct,         -nan
+OPC_LENGTH_16_23_MIS_total_count,             0
+OPC_LENGTH_16_23_MIS_total_pct,         -nan
+
+OPC_LENGTH_16_23_COR_count,             0
+OPC_LENGTH_16_23_COR_pct,         -nan
+OPC_LENGTH_16_23_COR_total_count,             0
+OPC_LENGTH_16_23_COR_total_pct,         -nan
+OPC_LENGTH_16_23_COR_sum_count,             0
+OPC_LENGTH_16_23_COR_sum_pct,         -nan
+OPC_LENGTH_16_23_COR_sum_total_count,             0
+OPC_LENGTH_16_23_COR_sum_total_pct,         -nan
+OPC_LENGTH_16_23_COR_mean,         -nan
+OPC_LENGTH_16_23_COR_stddev,         -nan
+OPC_LENGTH_16_23_COR_total_mean,         -nan
+OPC_LENGTH_16_23_COR_total_stddev,         -nan
+
+OPC_LENGTH_24_31_MIS_count,             0
+OPC_LENGTH_24_31_MIS_pct,         -nan
+OPC_LENGTH_24_31_MIS_total_count,             0
+OPC_LENGTH_24_31_MIS_total_pct,         -nan
+
+OPC_LENGTH_24_31_COR_count,             0
+OPC_LENGTH_24_31_COR_pct,         -nan
+OPC_LENGTH_24_31_COR_total_count,             0
+OPC_LENGTH_24_31_COR_total_pct,         -nan
+OPC_LENGTH_24_31_COR_sum_count,             0
+OPC_LENGTH_24_31_COR_sum_pct,         -nan
+OPC_LENGTH_24_31_COR_sum_total_count,             0
+OPC_LENGTH_24_31_COR_sum_total_pct,         -nan
+OPC_LENGTH_24_31_COR_mean,         -nan
+OPC_LENGTH_24_31_COR_stddev,         -nan
+OPC_LENGTH_24_31_COR_total_mean,         -nan
+OPC_LENGTH_24_31_COR_total_stddev,         -nan
+
+OPC_LENGTH_32_39_MIS_count,             0
+OPC_LENGTH_32_39_MIS_pct,         -nan
+OPC_LENGTH_32_39_MIS_total_count,             0
+OPC_LENGTH_32_39_MIS_total_pct,         -nan
+
+OPC_LENGTH_32_39_COR_count,             0
+OPC_LENGTH_32_39_COR_pct,         -nan
+OPC_LENGTH_32_39_COR_total_count,             0
+OPC_LENGTH_32_39_COR_total_pct,         -nan
+OPC_LENGTH_32_39_COR_sum_count,             0
+OPC_LENGTH_32_39_COR_sum_pct,         -nan
+OPC_LENGTH_32_39_COR_sum_total_count,             0
+OPC_LENGTH_32_39_COR_sum_total_pct,         -nan
+OPC_LENGTH_32_39_COR_mean,         -nan
+OPC_LENGTH_32_39_COR_stddev,         -nan
+OPC_LENGTH_32_39_COR_total_mean,         -nan
+OPC_LENGTH_32_39_COR_total_stddev,         -nan
+
+OPC_LENGTH_40_47_MIS_count,             0
+OPC_LENGTH_40_47_MIS_pct,         -nan
+OPC_LENGTH_40_47_MIS_total_count,             0
+OPC_LENGTH_40_47_MIS_total_pct,         -nan
+
+OPC_LENGTH_40_47_COR_count,             0
+OPC_LENGTH_40_47_COR_pct,         -nan
+OPC_LENGTH_40_47_COR_total_count,             0
+OPC_LENGTH_40_47_COR_total_pct,         -nan
+OPC_LENGTH_40_47_COR_sum_count,             0
+OPC_LENGTH_40_47_COR_sum_pct,         -nan
+OPC_LENGTH_40_47_COR_sum_total_count,             0
+OPC_LENGTH_40_47_COR_sum_total_pct,         -nan
+OPC_LENGTH_40_47_COR_mean,         -nan
+OPC_LENGTH_40_47_COR_stddev,         -nan
+OPC_LENGTH_40_47_COR_total_mean,         -nan
+OPC_LENGTH_40_47_COR_total_stddev,         -nan
+
+OPC_LENGTH_48_55_MIS_count,             0
+OPC_LENGTH_48_55_MIS_pct,         -nan
+OPC_LENGTH_48_55_MIS_total_count,             0
+OPC_LENGTH_48_55_MIS_total_pct,         -nan
+
+OPC_LENGTH_48_55_COR_count,             0
+OPC_LENGTH_48_55_COR_pct,         -nan
+OPC_LENGTH_48_55_COR_total_count,             0
+OPC_LENGTH_48_55_COR_total_pct,         -nan
+OPC_LENGTH_48_55_COR_sum_count,             0
+OPC_LENGTH_48_55_COR_sum_pct,         -nan
+OPC_LENGTH_48_55_COR_sum_total_count,             0
+OPC_LENGTH_48_55_COR_sum_total_pct,         -nan
+OPC_LENGTH_48_55_COR_mean,         -nan
+OPC_LENGTH_48_55_COR_stddev,         -nan
+OPC_LENGTH_48_55_COR_total_mean,         -nan
+OPC_LENGTH_48_55_COR_total_stddev,         -nan
+
+OPC_LENGTH_56_63_MIS_count,             0
+OPC_LENGTH_56_63_MIS_pct,         -nan
+OPC_LENGTH_56_63_MIS_total_count,             0
+OPC_LENGTH_56_63_MIS_total_pct,         -nan
+
+OPC_LENGTH_56_63_COR_count,             0
+OPC_LENGTH_56_63_COR_pct,         -nan
+OPC_LENGTH_56_63_COR_total_count,             0
+OPC_LENGTH_56_63_COR_total_pct,         -nan
+OPC_LENGTH_56_63_COR_sum_count,             0
+OPC_LENGTH_56_63_COR_sum_pct,         -nan
+OPC_LENGTH_56_63_COR_sum_total_count,             0
+OPC_LENGTH_56_63_COR_sum_total_pct,         -nan
+OPC_LENGTH_56_63_COR_mean,         -nan
+OPC_LENGTH_56_63_COR_stddev,         -nan
+OPC_LENGTH_56_63_COR_total_mean,         -nan
+OPC_LENGTH_56_63_COR_total_stddev,         -nan
+
+OPC_LENGTH_64_71_MIS_count,             0
+OPC_LENGTH_64_71_MIS_pct,         -nan
+OPC_LENGTH_64_71_MIS_total_count,             0
+OPC_LENGTH_64_71_MIS_total_pct,         -nan
+
+OPC_LENGTH_64_71_COR_count,             0
+OPC_LENGTH_64_71_COR_pct,         -nan
+OPC_LENGTH_64_71_COR_total_count,             0
+OPC_LENGTH_64_71_COR_total_pct,         -nan
+OPC_LENGTH_64_71_COR_sum_count,             0
+OPC_LENGTH_64_71_COR_sum_pct,         -nan
+OPC_LENGTH_64_71_COR_sum_total_count,             0
+OPC_LENGTH_64_71_COR_sum_total_pct,         -nan
+OPC_LENGTH_64_71_COR_mean,         -nan
+OPC_LENGTH_64_71_COR_stddev,         -nan
+OPC_LENGTH_64_71_COR_total_mean,         -nan
+OPC_LENGTH_64_71_COR_total_stddev,         -nan
+
+OPC_LENGTH_72_79_MIS_count,             0
+OPC_LENGTH_72_79_MIS_pct,         -nan
+OPC_LENGTH_72_79_MIS_total_count,             0
+OPC_LENGTH_72_79_MIS_total_pct,         -nan
+
+OPC_LENGTH_72_79_COR_count,             0
+OPC_LENGTH_72_79_COR_pct,         -nan
+OPC_LENGTH_72_79_COR_total_count,             0
+OPC_LENGTH_72_79_COR_total_pct,         -nan
+OPC_LENGTH_72_79_COR_sum_count,             0
+OPC_LENGTH_72_79_COR_sum_pct,         -nan
+OPC_LENGTH_72_79_COR_sum_total_count,             0
+OPC_LENGTH_72_79_COR_sum_total_pct,         -nan
+OPC_LENGTH_72_79_COR_mean,         -nan
+OPC_LENGTH_72_79_COR_stddev,         -nan
+OPC_LENGTH_72_79_COR_total_mean,         -nan
+OPC_LENGTH_72_79_COR_total_stddev,         -nan
+
+OPC_LENGTH_80_MIS_count,             0
+OPC_LENGTH_80_MIS_pct,         -nan
+OPC_LENGTH_80_MIS_total_count,             0
+OPC_LENGTH_80_MIS_total_pct,         -nan
+
+OPC_LENGTH_80_COR_count,             0
+OPC_LENGTH_80_COR_pct,         -nan
+OPC_LENGTH_80_COR_total_count,             0
+OPC_LENGTH_80_COR_total_pct,         -nan
+OPC_LENGTH_80_COR_sum_count,             0
+OPC_LENGTH_80_COR_sum_pct,         -nan
+OPC_LENGTH_80_COR_sum_total_count,             0
+OPC_LENGTH_80_COR_sum_total_pct,         -nan
+OPC_LENGTH_80_COR_mean,         -nan
+OPC_LENGTH_80_COR_stddev,         -nan
+OPC_LENGTH_80_COR_total_mean,         -nan
+OPC_LENGTH_80_COR_total_stddev,         -nan
+
+ALL_ONES_MIS_count,             0
+ALL_ONES_MIS_pct,         -nan
+ALL_ONES_MIS_total_count,             0
+ALL_ONES_MIS_total_pct,         -nan
+
+ALL_ONES_COR_count,             0
+ALL_ONES_COR_pct,         -nan
+ALL_ONES_COR_total_count,             0
+ALL_ONES_COR_total_pct,         -nan
+ALL_ONES_COR_sum_count,             0
+ALL_ONES_COR_sum_pct,         -nan
+ALL_ONES_COR_sum_total_count,             0
+ALL_ONES_COR_sum_total_pct,         -nan
+ALL_ONES_COR_mean,         -nan
+ALL_ONES_COR_stddev,         -nan
+ALL_ONES_COR_total_mean,         -nan
+ALL_ONES_COR_total_stddev,         -nan
+
+FIRST_ONE_MIS_count,             0
+FIRST_ONE_MIS_pct,         -nan
+FIRST_ONE_MIS_total_count,             0
+FIRST_ONE_MIS_total_pct,         -nan
+
+FIRST_ONE_COR_count,             0
+FIRST_ONE_COR_pct,         -nan
+FIRST_ONE_COR_total_count,             0
+FIRST_ONE_COR_total_pct,         -nan
+FIRST_ONE_COR_sum_count,             0
+FIRST_ONE_COR_sum_pct,         -nan
+FIRST_ONE_COR_sum_total_count,             0
+FIRST_ONE_COR_sum_total_pct,         -nan
+FIRST_ONE_COR_mean,         -nan
+FIRST_ONE_COR_stddev,         -nan
+FIRST_ONE_COR_total_mean,         -nan
+FIRST_ONE_COR_total_stddev,         -nan
+
+ZEROS_0_1_MIS_count,             0
+ZEROS_0_1_MIS_pct,         -nan
+ZEROS_0_1_MIS_total_count,             0
+ZEROS_0_1_MIS_total_pct,         -nan
+
+ZEROS_0_1_COR_count,             0
+ZEROS_0_1_COR_pct,         -nan
+ZEROS_0_1_COR_total_count,             0
+ZEROS_0_1_COR_total_pct,         -nan
+ZEROS_0_1_COR_sum_count,             0
+ZEROS_0_1_COR_sum_pct,         -nan
+ZEROS_0_1_COR_sum_total_count,             0
+ZEROS_0_1_COR_sum_total_pct,         -nan
+ZEROS_0_1_COR_mean,         -nan
+ZEROS_0_1_COR_stddev,         -nan
+ZEROS_0_1_COR_total_mean,         -nan
+ZEROS_0_1_COR_total_stddev,         -nan
+
+ZEROS_2_3_MIS_count,             0
+ZEROS_2_3_MIS_pct,         -nan
+ZEROS_2_3_MIS_total_count,             0
+ZEROS_2_3_MIS_total_pct,         -nan
+
+ZEROS_2_3_COR_count,             0
+ZEROS_2_3_COR_pct,         -nan
+ZEROS_2_3_COR_total_count,             0
+ZEROS_2_3_COR_total_pct,         -nan
+ZEROS_2_3_COR_sum_count,             0
+ZEROS_2_3_COR_sum_pct,         -nan
+ZEROS_2_3_COR_sum_total_count,             0
+ZEROS_2_3_COR_sum_total_pct,         -nan
+ZEROS_2_3_COR_mean,         -nan
+ZEROS_2_3_COR_stddev,         -nan
+ZEROS_2_3_COR_total_mean,         -nan
+ZEROS_2_3_COR_total_stddev,         -nan
+
+ZEROS_4_5_MIS_count,             0
+ZEROS_4_5_MIS_pct,         -nan
+ZEROS_4_5_MIS_total_count,             0
+ZEROS_4_5_MIS_total_pct,         -nan
+
+ZEROS_4_5_COR_count,             0
+ZEROS_4_5_COR_pct,         -nan
+ZEROS_4_5_COR_total_count,             0
+ZEROS_4_5_COR_total_pct,         -nan
+ZEROS_4_5_COR_sum_count,             0
+ZEROS_4_5_COR_sum_pct,         -nan
+ZEROS_4_5_COR_sum_total_count,             0
+ZEROS_4_5_COR_sum_total_pct,         -nan
+ZEROS_4_5_COR_mean,         -nan
+ZEROS_4_5_COR_stddev,         -nan
+ZEROS_4_5_COR_total_mean,         -nan
+ZEROS_4_5_COR_total_stddev,         -nan
+
+ZEROS_6_7_MIS_count,             0
+ZEROS_6_7_MIS_pct,         -nan
+ZEROS_6_7_MIS_total_count,             0
+ZEROS_6_7_MIS_total_pct,         -nan
+
+ZEROS_6_7_COR_count,             0
+ZEROS_6_7_COR_pct,         -nan
+ZEROS_6_7_COR_total_count,             0
+ZEROS_6_7_COR_total_pct,         -nan
+ZEROS_6_7_COR_sum_count,             0
+ZEROS_6_7_COR_sum_pct,         -nan
+ZEROS_6_7_COR_sum_total_count,             0
+ZEROS_6_7_COR_sum_total_pct,         -nan
+ZEROS_6_7_COR_mean,         -nan
+ZEROS_6_7_COR_stddev,         -nan
+ZEROS_6_7_COR_total_mean,         -nan
+ZEROS_6_7_COR_total_stddev,         -nan
+
+ZEROS_8_9_MIS_count,             0
+ZEROS_8_9_MIS_pct,         -nan
+ZEROS_8_9_MIS_total_count,             0
+ZEROS_8_9_MIS_total_pct,         -nan
+
+ZEROS_8_9_COR_count,             0
+ZEROS_8_9_COR_pct,         -nan
+ZEROS_8_9_COR_total_count,             0
+ZEROS_8_9_COR_total_pct,         -nan
+ZEROS_8_9_COR_sum_count,             0
+ZEROS_8_9_COR_sum_pct,         -nan
+ZEROS_8_9_COR_sum_total_count,             0
+ZEROS_8_9_COR_sum_total_pct,         -nan
+ZEROS_8_9_COR_mean,         -nan
+ZEROS_8_9_COR_stddev,         -nan
+ZEROS_8_9_COR_total_mean,         -nan
+ZEROS_8_9_COR_total_stddev,         -nan
+
+ZEROS_10_11_MIS_count,             0
+ZEROS_10_11_MIS_pct,         -nan
+ZEROS_10_11_MIS_total_count,             0
+ZEROS_10_11_MIS_total_pct,         -nan
+
+ZEROS_10_11_COR_count,             0
+ZEROS_10_11_COR_pct,         -nan
+ZEROS_10_11_COR_total_count,             0
+ZEROS_10_11_COR_total_pct,         -nan
+ZEROS_10_11_COR_sum_count,             0
+ZEROS_10_11_COR_sum_pct,         -nan
+ZEROS_10_11_COR_sum_total_count,             0
+ZEROS_10_11_COR_sum_total_pct,         -nan
+ZEROS_10_11_COR_mean,         -nan
+ZEROS_10_11_COR_stddev,         -nan
+ZEROS_10_11_COR_total_mean,         -nan
+ZEROS_10_11_COR_total_stddev,         -nan
+
+ZEROS_12_13_MIS_count,             0
+ZEROS_12_13_MIS_pct,         -nan
+ZEROS_12_13_MIS_total_count,             0
+ZEROS_12_13_MIS_total_pct,         -nan
+
+ZEROS_12_13_COR_count,             0
+ZEROS_12_13_COR_pct,         -nan
+ZEROS_12_13_COR_total_count,             0
+ZEROS_12_13_COR_total_pct,         -nan
+ZEROS_12_13_COR_sum_count,             0
+ZEROS_12_13_COR_sum_pct,         -nan
+ZEROS_12_13_COR_sum_total_count,             0
+ZEROS_12_13_COR_sum_total_pct,         -nan
+ZEROS_12_13_COR_mean,         -nan
+ZEROS_12_13_COR_stddev,         -nan
+ZEROS_12_13_COR_total_mean,         -nan
+ZEROS_12_13_COR_total_stddev,         -nan
+
+ZEROS_14_15_MIS_count,             0
+ZEROS_14_15_MIS_pct,         -nan
+ZEROS_14_15_MIS_total_count,             0
+ZEROS_14_15_MIS_total_pct,         -nan
+
+ZEROS_14_15_COR_count,             0
+ZEROS_14_15_COR_pct,         -nan
+ZEROS_14_15_COR_total_count,             0
+ZEROS_14_15_COR_total_pct,         -nan
+ZEROS_14_15_COR_sum_count,             0
+ZEROS_14_15_COR_sum_pct,         -nan
+ZEROS_14_15_COR_sum_total_count,             0
+ZEROS_14_15_COR_sum_total_pct,         -nan
+ZEROS_14_15_COR_mean,         -nan
+ZEROS_14_15_COR_stddev,         -nan
+ZEROS_14_15_COR_total_mean,         -nan
+ZEROS_14_15_COR_total_stddev,         -nan
+
+ZEROS_16_MIS_count,             0
+ZEROS_16_MIS_pct,         -nan
+ZEROS_16_MIS_total_count,             0
+ZEROS_16_MIS_total_pct,         -nan
+
+ZEROS_16_COR_count,             0
+ZEROS_16_COR_pct,         -nan
+ZEROS_16_COR_total_count,             0
+ZEROS_16_COR_total_pct,         -nan
+ZEROS_16_COR_sum_count,             0
+ZEROS_16_COR_sum_pct,         -nan
+ZEROS_16_COR_sum_total_count,             0
+ZEROS_16_COR_sum_total_pct,         -nan
+ZEROS_16_COR_mean,         -nan
+ZEROS_16_COR_stddev,         -nan
+ZEROS_16_COR_total_mean,         -nan
+ZEROS_16_COR_total_stddev,         -nan
+
+GS2BC_GSHARE_count,             0
+GS2BC_GSHARE_pct,         -nan
+GS2BC_GSHARE_total_count,             0
+GS2BC_GSHARE_total_pct,         -nan
+
+GS2BC_2BC_count,             0
+GS2BC_2BC_pct,         -nan
+GS2BC_2BC_total_count,             0
+GS2BC_2BC_total_pct,         -nan
+GS2BC_2BC_sum_count,             0
+GS2BC_2BC_sum_pct,         -nan
+GS2BC_2BC_sum_total_count,             0
+GS2BC_2BC_sum_total_pct,         -nan
+GS2BC_2BC_mean,         -nan
+GS2BC_2BC_stddev,         -nan
+GS2BC_2BC_total_mean,         -nan
+GS2BC_2BC_total_stddev,         -nan
+
+GSKEW2BC_VOTE_count,             0
+GSKEW2BC_VOTE_pct,         -nan
+GSKEW2BC_VOTE_total_count,             0
+GSKEW2BC_VOTE_total_pct,         -nan
+
+GSKEW2BC_2BC_count,             0
+GSKEW2BC_2BC_pct,         -nan
+GSKEW2BC_2BC_total_count,             0
+GSKEW2BC_2BC_total_pct,         -nan
+GSKEW2BC_2BC_sum_count,             0
+GSKEW2BC_2BC_sum_pct,         -nan
+GSKEW2BC_2BC_sum_total_count,             0
+GSKEW2BC_2BC_sum_total_pct,         -nan
+GSKEW2BC_2BC_mean,         -nan
+GSKEW2BC_2BC_stddev,         -nan
+GSKEW2BC_2BC_total_mean,         -nan
+GSKEW2BC_2BC_total_stddev,         -nan
+
+FUTGSHARE_INIT_ON_PATH_CORRECT_count,             0
+FUTGSHARE_INIT_ON_PATH_CORRECT_pct,         -nan
+FUTGSHARE_INIT_ON_PATH_CORRECT_total_count,             0
+FUTGSHARE_INIT_ON_PATH_CORRECT_total_pct,         -nan
+
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_count,             0
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_pct,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_total_count,             0
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_total_pct,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_sum_count,             0
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_sum_pct,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_sum_total_count,             0
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_sum_total_pct,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_mean,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_stddev,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_total_mean,         -nan
+FUTGSHARE_INIT_ON_PATH_MISPREDICT_total_stddev,         -nan
+
+FUTGSHARE_INIT_OFF_PATH_CORRECT_count,             0
+FUTGSHARE_INIT_OFF_PATH_CORRECT_pct,         -nan
+FUTGSHARE_INIT_OFF_PATH_CORRECT_total_count,             0
+FUTGSHARE_INIT_OFF_PATH_CORRECT_total_pct,         -nan
+
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_count,             0
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_pct,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_total_count,             0
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_total_pct,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_sum_count,             0
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_sum_pct,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_sum_total_count,             0
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_sum_total_pct,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_mean,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_stddev,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_total_mean,         -nan
+FUTGSHARE_INIT_OFF_PATH_MISPREDICT_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_total_stddev,         -nan
+
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_ON_PATH_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_ON_PATH_pct,         -nan
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_ON_PATH_total_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_ON_PATH_total_pct,         -nan
+
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_ON_PATH_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_ON_PATH_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_ON_PATH_total_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_ON_PATH_total_pct,         -nan
+
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_ON_PATH_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_ON_PATH_pct,         -nan
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_ON_PATH_total_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_ON_PATH_total_pct,         -nan
+
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_total_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_total_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_sum_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_sum_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_sum_total_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_sum_total_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_mean,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_stddev,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_total_mean,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_ON_PATH_total_stddev,         -nan
+
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_OFF_PATH_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_OFF_PATH_pct,         -nan
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_OFF_PATH_total_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_CORRECT_OFF_PATH_total_pct,         -nan
+
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_OFF_PATH_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_OFF_PATH_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_OFF_PATH_total_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_CORRECT_OFF_PATH_total_pct,         -nan
+
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_OFF_PATH_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_OFF_PATH_pct,         -nan
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_OFF_PATH_total_count,             0
+FUTGSHARE_ORIG_CORRECT_FUT_MISPRED_OFF_PATH_total_pct,         -nan
+
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_total_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_total_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_sum_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_sum_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_sum_total_count,             0
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_sum_total_pct,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_mean,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_stddev,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_total_mean,         -nan
+FUTGSHARE_ORIG_MISPRED_FUT_MISPRED_OFF_PATH_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_0_count,             0
+FUTGSHARE_ON_PATH_CORRECT_0_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_0_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_0_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_0_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_0_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_0_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_0_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_0_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_0_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_0_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_0_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_0_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_0_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_0_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_0_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_0_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_0_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_0_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_0_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_1_count,             0
+FUTGSHARE_ON_PATH_CORRECT_1_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_1_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_1_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_1_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_1_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_1_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_1_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_1_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_1_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_1_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_1_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_1_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_1_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_1_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_1_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_1_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_1_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_1_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_1_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_2_count,             0
+FUTGSHARE_ON_PATH_CORRECT_2_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_2_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_2_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_2_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_2_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_2_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_2_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_2_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_2_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_2_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_2_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_2_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_2_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_2_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_2_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_2_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_2_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_2_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_2_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_3_count,             0
+FUTGSHARE_ON_PATH_CORRECT_3_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_3_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_3_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_3_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_3_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_3_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_3_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_3_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_3_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_3_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_3_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_3_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_3_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_3_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_3_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_3_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_3_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_3_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_3_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_4_count,             0
+FUTGSHARE_ON_PATH_CORRECT_4_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_4_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_4_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_4_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_4_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_4_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_4_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_4_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_4_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_4_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_4_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_4_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_4_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_4_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_4_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_4_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_4_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_4_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_4_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_5_count,             0
+FUTGSHARE_ON_PATH_CORRECT_5_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_5_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_5_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_5_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_5_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_5_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_5_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_5_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_5_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_5_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_5_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_5_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_5_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_5_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_5_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_5_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_5_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_5_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_5_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_6_count,             0
+FUTGSHARE_ON_PATH_CORRECT_6_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_6_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_6_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_6_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_6_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_6_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_6_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_6_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_6_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_6_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_6_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_6_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_6_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_6_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_6_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_6_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_6_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_6_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_6_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_7_count,             0
+FUTGSHARE_ON_PATH_CORRECT_7_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_7_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_7_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_7_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_7_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_7_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_7_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_7_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_7_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_7_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_7_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_7_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_7_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_7_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_7_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_7_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_7_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_7_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_7_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_8_count,             0
+FUTGSHARE_ON_PATH_CORRECT_8_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_8_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_8_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_8_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_8_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_8_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_8_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_8_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_8_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_8_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_8_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_8_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_8_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_8_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_8_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_8_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_8_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_8_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_8_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_9_count,             0
+FUTGSHARE_ON_PATH_CORRECT_9_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_9_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_9_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_9_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_9_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_9_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_9_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_9_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_9_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_9_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_9_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_9_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_9_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_9_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_9_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_9_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_9_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_9_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_9_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_10_count,             0
+FUTGSHARE_ON_PATH_CORRECT_10_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_10_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_10_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_10_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_10_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_10_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_10_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_10_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_10_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_10_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_10_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_10_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_10_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_10_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_10_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_10_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_10_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_10_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_10_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_11_count,             0
+FUTGSHARE_ON_PATH_CORRECT_11_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_11_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_11_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_11_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_11_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_11_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_11_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_11_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_11_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_11_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_11_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_11_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_11_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_11_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_11_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_11_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_11_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_11_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_11_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_12_count,             0
+FUTGSHARE_ON_PATH_CORRECT_12_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_12_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_12_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_12_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_12_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_12_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_12_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_12_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_12_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_12_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_12_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_12_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_12_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_12_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_12_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_12_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_12_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_12_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_12_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_13_count,             0
+FUTGSHARE_ON_PATH_CORRECT_13_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_13_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_13_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_13_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_13_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_13_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_13_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_13_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_13_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_13_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_13_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_13_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_13_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_13_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_13_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_13_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_13_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_13_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_13_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_14_count,             0
+FUTGSHARE_ON_PATH_CORRECT_14_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_14_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_14_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_14_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_14_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_14_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_14_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_14_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_14_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_14_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_14_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_14_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_14_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_14_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_14_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_14_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_14_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_14_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_14_total_stddev,         -nan
+
+FUTGSHARE_ON_PATH_CORRECT_15_count,             0
+FUTGSHARE_ON_PATH_CORRECT_15_pct,         -nan
+FUTGSHARE_ON_PATH_CORRECT_15_total_count,             0
+FUTGSHARE_ON_PATH_CORRECT_15_total_pct,         -nan
+
+FUTGSHARE_ON_PATH_MISPREDICT_15_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_15_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_15_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_sum_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_15_sum_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_sum_total_count,             0
+FUTGSHARE_ON_PATH_MISPREDICT_15_sum_total_pct,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_stddev,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_total_mean,         -nan
+FUTGSHARE_ON_PATH_MISPREDICT_15_total_stddev,         -nan
+
+FUTGSHARE_OFF_PATH_CORRECT_15_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_15_pct,         -nan
+FUTGSHARE_OFF_PATH_CORRECT_15_total_count,             0
+FUTGSHARE_OFF_PATH_CORRECT_15_total_pct,         -nan
+
+FUTGSHARE_OFF_PATH_MISPREDICT_15_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_15_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_15_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_sum_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_15_sum_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_sum_total_count,             0
+FUTGSHARE_OFF_PATH_MISPREDICT_15_sum_total_pct,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_stddev,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_total_mean,         -nan
+FUTGSHARE_OFF_PATH_MISPREDICT_15_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_0_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_0_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_0_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_0_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_0_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_0_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_0_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_0_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_0_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_0_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_1_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_1_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_1_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_1_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_1_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_1_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_1_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_1_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_1_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_1_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_2_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_2_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_2_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_2_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_2_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_2_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_2_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_2_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_2_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_2_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_3_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_3_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_3_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_3_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_3_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_3_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_3_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_3_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_3_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_3_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_4_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_4_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_4_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_4_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_4_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_4_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_4_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_4_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_4_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_4_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_5_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_5_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_5_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_5_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_5_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_5_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_5_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_5_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_5_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_5_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_6_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_6_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_6_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_6_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_6_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_6_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_6_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_6_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_6_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_6_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_7_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_7_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_7_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_7_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_7_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_7_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_7_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_7_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_7_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_7_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_8_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_8_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_8_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_8_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_8_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_8_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_8_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_8_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_8_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_8_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_9_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_9_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_9_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_9_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_9_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_9_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_9_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_9_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_9_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_9_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_10_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_10_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_10_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_10_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_10_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_10_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_10_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_10_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_10_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_10_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_11_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_11_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_11_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_11_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_11_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_11_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_11_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_11_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_11_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_11_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_12_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_12_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_12_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_12_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_12_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_12_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_12_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_12_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_12_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_12_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_13_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_13_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_13_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_13_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_13_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_13_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_13_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_13_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_13_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_13_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_14_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_14_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_14_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_14_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_14_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_14_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_14_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_14_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_14_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_14_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_15_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_15_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_15_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_ON_PATH_15_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_ON_PATH_15_total_stddev,         -nan
+
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_15_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_15_pct,         -nan
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_15_total_count,             0
+FUTGSHARE_CHANGED_CORRECTED_OFF_PATH_15_total_pct,         -nan
+
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_sum_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_sum_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_sum_total_count,             0
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_sum_total_pct,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_stddev,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_total_mean,         -nan
+FUTGSHARE_CHANGED_SCREWED_OFF_PATH_15_total_stddev,         -nan
+
+FRAGHIST_BIN_0_count,             0
+FRAGHIST_BIN_0_pct,         -nan
+FRAGHIST_BIN_0_total_count,             0
+FRAGHIST_BIN_0_total_pct,         -nan
+
+FRAGHIST_BIN_1_count,             0
+FRAGHIST_BIN_1_pct,         -nan
+FRAGHIST_BIN_1_total_count,             0
+FRAGHIST_BIN_1_total_pct,         -nan
+
+FRAGHIST_BIN_2_count,             0
+FRAGHIST_BIN_2_pct,         -nan
+FRAGHIST_BIN_2_total_count,             0
+FRAGHIST_BIN_2_total_pct,         -nan
+
+FRAGHIST_BIN_3_count,             0
+FRAGHIST_BIN_3_pct,         -nan
+FRAGHIST_BIN_3_total_count,             0
+FRAGHIST_BIN_3_total_pct,         -nan
+
+FRAGHIST_BIN_4_count,             0
+FRAGHIST_BIN_4_pct,         -nan
+FRAGHIST_BIN_4_total_count,             0
+FRAGHIST_BIN_4_total_pct,         -nan
+
+FRAGHIST_BIN_5_count,             0
+FRAGHIST_BIN_5_pct,         -nan
+FRAGHIST_BIN_5_total_count,             0
+FRAGHIST_BIN_5_total_pct,         -nan
+
+FRAGHIST_BIN_6_count,             0
+FRAGHIST_BIN_6_pct,         -nan
+FRAGHIST_BIN_6_total_count,             0
+FRAGHIST_BIN_6_total_pct,         -nan
+
+FRAGHIST_BIN_7_count,             0
+FRAGHIST_BIN_7_pct,         -nan
+FRAGHIST_BIN_7_total_count,             0
+FRAGHIST_BIN_7_total_pct,         -nan
+
+FRAGHIST_BIN_8_count,             0
+FRAGHIST_BIN_8_pct,         -nan
+FRAGHIST_BIN_8_total_count,             0
+FRAGHIST_BIN_8_total_pct,         -nan
+
+FRAGHIST_BIN_9_count,             0
+FRAGHIST_BIN_9_pct,         -nan
+FRAGHIST_BIN_9_total_count,             0
+FRAGHIST_BIN_9_total_pct,         -nan
+
+FRAGHIST_BIN_10_count,             0
+FRAGHIST_BIN_10_pct,         -nan
+FRAGHIST_BIN_10_total_count,             0
+FRAGHIST_BIN_10_total_pct,         -nan
+
+FRAGHIST_BIN_11_count,             0
+FRAGHIST_BIN_11_pct,         -nan
+FRAGHIST_BIN_11_total_count,             0
+FRAGHIST_BIN_11_total_pct,         -nan
+
+FRAGHIST_BIN_12_count,             0
+FRAGHIST_BIN_12_pct,         -nan
+FRAGHIST_BIN_12_total_count,             0
+FRAGHIST_BIN_12_total_pct,         -nan
+
+FRAGHIST_BIN_13_count,             0
+FRAGHIST_BIN_13_pct,         -nan
+FRAGHIST_BIN_13_total_count,             0
+FRAGHIST_BIN_13_total_pct,         -nan
+
+FRAGHIST_BIN_14_count,             0
+FRAGHIST_BIN_14_pct,         -nan
+FRAGHIST_BIN_14_total_count,             0
+FRAGHIST_BIN_14_total_pct,         -nan
+
+FRAGHIST_BIN_15_count,             0
+FRAGHIST_BIN_15_pct,         -nan
+FRAGHIST_BIN_15_total_count,             0
+FRAGHIST_BIN_15_total_pct,         -nan
+
+FRAGHIST_BIN_16_count,             0
+FRAGHIST_BIN_16_pct,         -nan
+FRAGHIST_BIN_16_total_count,             0
+FRAGHIST_BIN_16_total_pct,         -nan
+
+FRAGHIST_BIN_17_count,             0
+FRAGHIST_BIN_17_pct,         -nan
+FRAGHIST_BIN_17_total_count,             0
+FRAGHIST_BIN_17_total_pct,         -nan
+
+FRAGHIST_BIN_18_count,             0
+FRAGHIST_BIN_18_pct,         -nan
+FRAGHIST_BIN_18_total_count,             0
+FRAGHIST_BIN_18_total_pct,         -nan
+
+FRAGHIST_BIN_19_count,             0
+FRAGHIST_BIN_19_pct,         -nan
+FRAGHIST_BIN_19_total_count,             0
+FRAGHIST_BIN_19_total_pct,         -nan
+
+FRAGHIST_BIN_20_count,             0
+FRAGHIST_BIN_20_pct,         -nan
+FRAGHIST_BIN_20_total_count,             0
+FRAGHIST_BIN_20_total_pct,         -nan
+
+FRAGHIST_BIN_21_count,             0
+FRAGHIST_BIN_21_pct,         -nan
+FRAGHIST_BIN_21_total_count,             0
+FRAGHIST_BIN_21_total_pct,         -nan
+
+FRAGHIST_BIN_22_count,             0
+FRAGHIST_BIN_22_pct,         -nan
+FRAGHIST_BIN_22_total_count,             0
+FRAGHIST_BIN_22_total_pct,         -nan
+
+FRAGHIST_BIN_23_count,             0
+FRAGHIST_BIN_23_pct,         -nan
+FRAGHIST_BIN_23_total_count,             0
+FRAGHIST_BIN_23_total_pct,         -nan
+
+FRAGHIST_BIN_24_count,             0
+FRAGHIST_BIN_24_pct,         -nan
+FRAGHIST_BIN_24_total_count,             0
+FRAGHIST_BIN_24_total_pct,         -nan
+
+FRAGHIST_BIN_25_count,             0
+FRAGHIST_BIN_25_pct,         -nan
+FRAGHIST_BIN_25_total_count,             0
+FRAGHIST_BIN_25_total_pct,         -nan
+
+FRAGHIST_BIN_26_count,             0
+FRAGHIST_BIN_26_pct,         -nan
+FRAGHIST_BIN_26_total_count,             0
+FRAGHIST_BIN_26_total_pct,         -nan
+
+FRAGHIST_BIN_27_count,             0
+FRAGHIST_BIN_27_pct,         -nan
+FRAGHIST_BIN_27_total_count,             0
+FRAGHIST_BIN_27_total_pct,         -nan
+
+FRAGHIST_BIN_28_count,             0
+FRAGHIST_BIN_28_pct,         -nan
+FRAGHIST_BIN_28_total_count,             0
+FRAGHIST_BIN_28_total_pct,         -nan
+
+FRAGHIST_BIN_29_count,             0
+FRAGHIST_BIN_29_pct,         -nan
+FRAGHIST_BIN_29_total_count,             0
+FRAGHIST_BIN_29_total_pct,         -nan
+
+FRAGHIST_BIN_30_count,             0
+FRAGHIST_BIN_30_pct,         -nan
+FRAGHIST_BIN_30_total_count,             0
+FRAGHIST_BIN_30_total_pct,         -nan
+
+FRAGHIST_BIN_31_count,             0
+FRAGHIST_BIN_31_pct,         -nan
+FRAGHIST_BIN_31_total_count,             0
+FRAGHIST_BIN_31_total_pct,         -nan
+
+FRAGHIST_BIN_32_count,             0
+FRAGHIST_BIN_32_pct,         -nan
+FRAGHIST_BIN_32_total_count,             0
+FRAGHIST_BIN_32_total_pct,         -nan
+FRAGHIST_BIN_32_sum_count,             0
+FRAGHIST_BIN_32_sum_pct,         -nan
+FRAGHIST_BIN_32_sum_total_count,             0
+FRAGHIST_BIN_32_sum_total_pct,         -nan
+FRAGHIST_BIN_32_mean,         -nan
+FRAGHIST_BIN_32_stddev,         -nan
+FRAGHIST_BIN_32_total_mean,         -nan
+FRAGHIST_BIN_32_total_stddev,         -nan
+
+CF_BR_USED_TARGET_CORRECT_count,         36647
+CF_BR_USED_TARGET_CORRECT_pct,        1.750
+CF_BR_USED_TARGET_CORRECT_total_count,         73103
+CF_BR_USED_TARGET_CORRECT_total_pct,        1.858
+
+CF_BR_USED_TARGET_INCORRECT_count,            65
+CF_BR_USED_TARGET_INCORRECT_pct,        0.003
+CF_BR_USED_TARGET_INCORRECT_total_count,           513
+CF_BR_USED_TARGET_INCORRECT_total_pct,        0.013
+
+CF_CBR_USED_TARGET_CORRECT_count,       1662945
+CF_CBR_USED_TARGET_CORRECT_pct,       79.405
+CF_CBR_USED_TARGET_CORRECT_total_count,       3079883
+CF_CBR_USED_TARGET_CORRECT_total_pct,       78.290
+
+CF_CBR_USED_TARGET_INCORRECT_count,        187934
+CF_CBR_USED_TARGET_INCORRECT_pct,        8.974
+CF_CBR_USED_TARGET_INCORRECT_total_count,        362894
+CF_CBR_USED_TARGET_INCORRECT_total_pct,        9.225
+
+CF_CALL_USED_TARGET_CORRECT_count,         67851
+CF_CALL_USED_TARGET_CORRECT_pct,        3.240
+CF_CALL_USED_TARGET_CORRECT_total_count,        135723
+CF_CALL_USED_TARGET_CORRECT_total_pct,        3.450
+
+CF_CALL_USED_TARGET_INCORRECT_count,           177
+CF_CALL_USED_TARGET_INCORRECT_pct,        0.008
+CF_CALL_USED_TARGET_INCORRECT_total_count,          1763
+CF_CALL_USED_TARGET_INCORRECT_total_pct,        0.045
+
+CF_IBR_USED_TARGET_CORRECT_count,         70607
+CF_IBR_USED_TARGET_CORRECT_pct,        3.371
+CF_IBR_USED_TARGET_CORRECT_total_count,        142520
+CF_IBR_USED_TARGET_CORRECT_total_pct,        3.623
+
+CF_IBR_USED_TARGET_INCORRECT_count,             6
+CF_IBR_USED_TARGET_INCORRECT_pct,        0.000
+CF_IBR_USED_TARGET_INCORRECT_total_count,            42
+CF_IBR_USED_TARGET_INCORRECT_total_pct,        0.001
+
+CF_ICALL_USED_TARGET_CORRECT_count,             0
+CF_ICALL_USED_TARGET_CORRECT_pct,        0.000
+CF_ICALL_USED_TARGET_CORRECT_total_count,             0
+CF_ICALL_USED_TARGET_CORRECT_total_pct,        0.000
+
+CF_ICALL_USED_TARGET_INCORRECT_count,             0
+CF_ICALL_USED_TARGET_INCORRECT_pct,        0.000
+CF_ICALL_USED_TARGET_INCORRECT_total_count,             0
+CF_ICALL_USED_TARGET_INCORRECT_total_pct,        0.000
+
+CF_ICO_USED_TARGET_CORRECT_count,             0
+CF_ICO_USED_TARGET_CORRECT_pct,        0.000
+CF_ICO_USED_TARGET_CORRECT_total_count,             0
+CF_ICO_USED_TARGET_CORRECT_total_pct,        0.000
+
+CF_ICO_USED_TARGET_INCORRECT_count,             0
+CF_ICO_USED_TARGET_INCORRECT_pct,        0.000
+CF_ICO_USED_TARGET_INCORRECT_total_count,             0
+CF_ICO_USED_TARGET_INCORRECT_total_pct,        0.000
+
+CF_RET_USED_TARGET_CORRECT_count,         67937
+CF_RET_USED_TARGET_CORRECT_pct,        3.244
+CF_RET_USED_TARGET_CORRECT_total_count,        137305
+CF_RET_USED_TARGET_CORRECT_total_pct,        3.490
+
+CF_RET_USED_TARGET_INCORRECT_count,            90
+CF_RET_USED_TARGET_INCORRECT_pct,        0.004
+CF_RET_USED_TARGET_INCORRECT_total_count,           180
+CF_RET_USED_TARGET_INCORRECT_total_pct,        0.005
+
+CF_DEFAULT_USED_TARGET_CORRECT_count,             0
+CF_DEFAULT_USED_TARGET_CORRECT_pct,        0.000
+CF_DEFAULT_USED_TARGET_CORRECT_total_count,             0
+CF_DEFAULT_USED_TARGET_CORRECT_total_pct,        0.000
+
+CF_DEFAULT_USED_TARGET_INCORRECT_count,             0
+CF_DEFAULT_USED_TARGET_INCORRECT_pct,        0.000
+CF_DEFAULT_USED_TARGET_INCORRECT_total_count,             0
+CF_DEFAULT_USED_TARGET_INCORRECT_total_pct,        0.000
+CF_DEFAULT_USED_TARGET_INCORRECT_sum_count,       2094259
+CF_DEFAULT_USED_TARGET_INCORRECT_sum_pct,      100.000
+CF_DEFAULT_USED_TARGET_INCORRECT_sum_total_count,       3933926
+CF_DEFAULT_USED_TARGET_INCORRECT_sum_total_pct,      100.000
+CF_DEFAULT_USED_TARGET_INCORRECT_mean,         2.58
+CF_DEFAULT_USED_TARGET_INCORRECT_stddev,         1.90
+CF_DEFAULT_USED_TARGET_INCORRECT_total_mean,         2.62
+CF_DEFAULT_USED_TARGET_INCORRECT_total_stddev,         1.97
+
+BTB_UPDATE_BTB_MISS_count,          1357
+BTB_UPDATE_BTB_MISS_pct,      100.000
+BTB_UPDATE_BTB_MISS_total_count,          6438
+BTB_UPDATE_BTB_MISS_total_pct,      100.000
+
+BTB_UPDATE_BTB_HIT_TAKEN_count,             0
+BTB_UPDATE_BTB_HIT_TAKEN_pct,        0.000
+BTB_UPDATE_BTB_HIT_TAKEN_total_count,             0
+BTB_UPDATE_BTB_HIT_TAKEN_total_pct,        0.000
+BTB_UPDATE_BTB_HIT_TAKEN_sum_count,          1357
+BTB_UPDATE_BTB_HIT_TAKEN_sum_pct,      100.000
+BTB_UPDATE_BTB_HIT_TAKEN_sum_total_count,          6438
+BTB_UPDATE_BTB_HIT_TAKEN_sum_total_pct,      100.000
+BTB_UPDATE_BTB_HIT_TAKEN_mean,         0.00
+BTB_UPDATE_BTB_HIT_TAKEN_stddev,         0.00
+BTB_UPDATE_BTB_HIT_TAKEN_total_mean,         0.00
+BTB_UPDATE_BTB_HIT_TAKEN_total_stddev,         0.00
+
+BTB_UPDATE_BTB_HIT_JITTED_NOT_CF_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_NOT_CF_pct,        0.000
+BTB_UPDATE_BTB_HIT_JITTED_NOT_CF_total_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_NOT_CF_total_pct,        0.000
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_BR_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_BR_pct,        0.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_BR_total_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_BR_total_pct,        0.000
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_CBR_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_CBR_pct,        0.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_CBR_total_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_CBR_total_pct,        0.000
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_CALL_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_CALL_pct,        0.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_CALL_total_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_CALL_total_pct,        0.000
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_IBR_count,             4
+BTB_UPDATE_BTB_HIT_JITTED_CF_IBR_pct,        0.012
+BTB_UPDATE_BTB_HIT_JITTED_CF_IBR_total_count,             8
+BTB_UPDATE_BTB_HIT_JITTED_CF_IBR_total_pct,        0.012
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICALL_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICALL_pct,        0.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICALL_total_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICALL_total_pct,        0.000
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICO_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICO_pct,        0.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICO_total_count,             0
+BTB_UPDATE_BTB_HIT_JITTED_CF_ICO_total_pct,        0.000
+
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_count,         32101
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_pct,       99.988
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_total_count,         64613
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_total_pct,       99.988
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_sum_count,         32105
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_sum_pct,      100.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_sum_total_count,         64621
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_sum_total_pct,      100.000
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_mean,         7.00
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_stddev,         7.00
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_total_mean,         7.00
+BTB_UPDATE_BTB_HIT_JITTED_CF_RET_total_stddev,         7.00
+
+RESTEER_BTB_MISS_NOT_CF_count,             0
+RESTEER_BTB_MISS_NOT_CF_pct,        0.000
+RESTEER_BTB_MISS_NOT_CF_total_count,             0
+RESTEER_BTB_MISS_NOT_CF_total_pct,        0.000
+
+RESTEER_BTB_MISS_CF_BR_count,             0
+RESTEER_BTB_MISS_CF_BR_pct,        0.000
+RESTEER_BTB_MISS_CF_BR_total_count,             0
+RESTEER_BTB_MISS_CF_BR_total_pct,        0.000
+
+RESTEER_BTB_MISS_CF_CBR_count,            65
+RESTEER_BTB_MISS_CF_CBR_pct,        0.017
+RESTEER_BTB_MISS_CF_CBR_total_count,           513
+RESTEER_BTB_MISS_CF_CBR_total_pct,        0.063
+
+RESTEER_BTB_MISS_CF_CALL_count,           395
+RESTEER_BTB_MISS_CF_CALL_pct,        0.102
+RESTEER_BTB_MISS_CF_CALL_total_count,          2139
+RESTEER_BTB_MISS_CF_CALL_total_pct,        0.263
+
+RESTEER_BTB_MISS_CF_IBR_count,           177
+RESTEER_BTB_MISS_CF_IBR_pct,        0.046
+RESTEER_BTB_MISS_CF_IBR_total_count,          1763
+RESTEER_BTB_MISS_CF_IBR_total_pct,        0.217
+
+RESTEER_BTB_MISS_CF_ICALL_count,             0
+RESTEER_BTB_MISS_CF_ICALL_pct,        0.000
+RESTEER_BTB_MISS_CF_ICALL_total_count,             0
+RESTEER_BTB_MISS_CF_ICALL_total_pct,        0.000
+
+RESTEER_BTB_MISS_CF_ICO_count,             0
+RESTEER_BTB_MISS_CF_ICO_pct,        0.000
+RESTEER_BTB_MISS_CF_ICO_total_count,             0
+RESTEER_BTB_MISS_CF_ICO_total_pct,        0.000
+
+RESTEER_BTB_MISS_CF_RET_count,             0
+RESTEER_BTB_MISS_CF_RET_pct,        0.000
+RESTEER_BTB_MISS_CF_RET_total_count,             0
+RESTEER_BTB_MISS_CF_RET_total_pct,        0.000
+
+RESTEER_MISPRED_NOT_CF_count,             0
+RESTEER_MISPRED_NOT_CF_pct,        0.000
+RESTEER_MISPRED_NOT_CF_total_count,             0
+RESTEER_MISPRED_NOT_CF_total_pct,        0.000
+
+RESTEER_MISPRED_CF_BR_count,             0
+RESTEER_MISPRED_CF_BR_pct,        0.000
+RESTEER_MISPRED_CF_BR_total_count,             0
+RESTEER_MISPRED_CF_BR_total_pct,        0.000
+
+RESTEER_MISPRED_CF_CBR_count,        224097
+RESTEER_MISPRED_CF_CBR_pct,       57.953
+RESTEER_MISPRED_CF_CBR_total_count,        504396
+RESTEER_MISPRED_CF_CBR_total_pct,       61.957
+
+RESTEER_MISPRED_CF_CALL_count,             0
+RESTEER_MISPRED_CF_CALL_pct,        0.000
+RESTEER_MISPRED_CF_CALL_total_count,             0
+RESTEER_MISPRED_CF_CALL_total_pct,        0.000
+
+RESTEER_MISPRED_CF_IBR_count,             0
+RESTEER_MISPRED_CF_IBR_pct,        0.000
+RESTEER_MISPRED_CF_IBR_total_count,            32
+RESTEER_MISPRED_CF_IBR_total_pct,        0.004
+
+RESTEER_MISPRED_CF_ICALL_count,             0
+RESTEER_MISPRED_CF_ICALL_pct,        0.000
+RESTEER_MISPRED_CF_ICALL_total_count,             0
+RESTEER_MISPRED_CF_ICALL_total_pct,        0.000
+
+RESTEER_MISPRED_CF_ICO_count,             0
+RESTEER_MISPRED_CF_ICO_pct,        0.000
+RESTEER_MISPRED_CF_ICO_total_count,             0
+RESTEER_MISPRED_CF_ICO_total_pct,        0.000
+
+RESTEER_MISPRED_CF_RET_count,             0
+RESTEER_MISPRED_CF_RET_pct,        0.000
+RESTEER_MISPRED_CF_RET_total_count,             4
+RESTEER_MISPRED_CF_RET_total_pct,        0.000
+
+RESTEER_MISFETCH_NOT_CF_count,             0
+RESTEER_MISFETCH_NOT_CF_pct,        0.000
+RESTEER_MISFETCH_NOT_CF_total_count,             0
+RESTEER_MISFETCH_NOT_CF_total_pct,        0.000
+
+RESTEER_MISFETCH_CF_BR_count,             0
+RESTEER_MISFETCH_CF_BR_pct,        0.000
+RESTEER_MISFETCH_CF_BR_total_count,             0
+RESTEER_MISFETCH_CF_BR_total_pct,        0.000
+
+RESTEER_MISFETCH_CF_CBR_count,        161858
+RESTEER_MISFETCH_CF_CBR_pct,       41.858
+RESTEER_MISFETCH_CF_CBR_total_count,        305073
+RESTEER_MISFETCH_CF_CBR_total_pct,       37.473
+
+RESTEER_MISFETCH_CF_CALL_count,             0
+RESTEER_MISFETCH_CF_CALL_pct,        0.000
+RESTEER_MISFETCH_CF_CALL_total_count,             0
+RESTEER_MISFETCH_CF_CALL_total_pct,        0.000
+
+RESTEER_MISFETCH_CF_IBR_count,             6
+RESTEER_MISFETCH_CF_IBR_pct,        0.002
+RESTEER_MISFETCH_CF_IBR_total_count,            10
+RESTEER_MISFETCH_CF_IBR_total_pct,        0.001
+
+RESTEER_MISFETCH_CF_ICALL_count,             0
+RESTEER_MISFETCH_CF_ICALL_pct,        0.000
+RESTEER_MISFETCH_CF_ICALL_total_count,             0
+RESTEER_MISFETCH_CF_ICALL_total_pct,        0.000
+
+RESTEER_MISFETCH_CF_ICO_count,             0
+RESTEER_MISFETCH_CF_ICO_pct,        0.000
+RESTEER_MISFETCH_CF_ICO_total_count,             0
+RESTEER_MISFETCH_CF_ICO_total_pct,        0.000
+
+RESTEER_MISFETCH_CF_RET_count,            90
+RESTEER_MISFETCH_CF_RET_pct,        0.023
+RESTEER_MISFETCH_CF_RET_total_count,           176
+RESTEER_MISFETCH_CF_RET_total_pct,        0.022
+
+RESTEER_NO_TARGET_CF_IBR_count,             0
+RESTEER_NO_TARGET_CF_IBR_pct,        0.000
+RESTEER_NO_TARGET_CF_IBR_total_count,             0
+RESTEER_NO_TARGET_CF_IBR_total_pct,        0.000
+
+RESTEER_NO_TARGET_CF_ICALL_count,             0
+RESTEER_NO_TARGET_CF_ICALL_pct,        0.000
+RESTEER_NO_TARGET_CF_ICALL_total_count,             0
+RESTEER_NO_TARGET_CF_ICALL_total_pct,        0.000
+
+RESTEER_NO_TARGET_CF_ICO_count,             0
+RESTEER_NO_TARGET_CF_ICO_pct,        0.000
+RESTEER_NO_TARGET_CF_ICO_total_count,             0
+RESTEER_NO_TARGET_CF_ICO_total_pct,        0.000
+
+RESTEER_NO_TARGET_CF_RET_count,             0
+RESTEER_NO_TARGET_CF_RET_pct,        0.000
+RESTEER_NO_TARGET_CF_RET_total_count,             0
+RESTEER_NO_TARGET_CF_RET_total_pct,        0.000
+RESTEER_NO_TARGET_CF_RET_sum_count,        386688
+RESTEER_NO_TARGET_CF_RET_sum_pct,      100.000
+RESTEER_NO_TARGET_CF_RET_sum_total_count,        814106
+RESTEER_NO_TARGET_CF_RET_sum_total_pct,      100.000
+RESTEER_NO_TARGET_CF_RET_mean,        13.34
+RESTEER_NO_TARGET_CF_RET_stddev,         3.97
+RESTEER_NO_TARGET_CF_RET_total_mean,        12.96
+RESTEER_NO_TARGET_CF_RET_total_stddev,         3.93
+
+CBR_CORRECT_count,       1518673
+CBR_CORRECT_pct,       78.754
+CBR_CORRECT_total_count,       2817437
+CBR_CORRECT_total_pct,       76.106
+
+CBR_CORRECT_BTB_MISS_NT_NT_count,         23352
+CBR_CORRECT_BTB_MISS_NT_NT_pct,        1.211
+CBR_CORRECT_BTB_MISS_NT_NT_total_count,         72937
+CBR_CORRECT_BTB_MISS_NT_NT_total_pct,        1.970
+
+CBR_RECOVER_MISPREDICT_count,        224044
+CBR_RECOVER_MISPREDICT_pct,       11.618
+CBR_RECOVER_MISPREDICT_total_count,        503669
+CBR_RECOVER_MISPREDICT_total_pct,       13.605
+
+CBR_RECOVER_MISFETCH_count,             0
+CBR_RECOVER_MISFETCH_pct,        0.000
+CBR_RECOVER_MISFETCH_total_count,             0
+CBR_RECOVER_MISFETCH_total_pct,        0.000
+
+CBR_RECOVER_BTB_MISS_T_T_count,           395
+CBR_RECOVER_BTB_MISS_T_T_pct,        0.020
+CBR_RECOVER_BTB_MISS_T_T_total_count,          2139
+CBR_RECOVER_BTB_MISS_T_T_total_pct,        0.058
+
+CBR_RECOVER_BTB_MISS_T_NT_count,        161858
+CBR_RECOVER_BTB_MISS_T_NT_pct,        8.393
+CBR_RECOVER_BTB_MISS_T_NT_total_count,        305073
+CBR_RECOVER_BTB_MISS_T_NT_total_pct,        8.241
+
+CBR_RECOVER_BTB_MISS_NT_T_count,            54
+CBR_RECOVER_BTB_MISS_NT_T_pct,        0.003
+CBR_RECOVER_BTB_MISS_NT_T_total_count,           728
+CBR_RECOVER_BTB_MISS_NT_T_total_pct,        0.020
+CBR_RECOVER_BTB_MISS_NT_T_sum_count,       1928376
+CBR_RECOVER_BTB_MISS_NT_T_sum_pct,      100.000
+CBR_RECOVER_BTB_MISS_NT_T_sum_total_count,       3701983
+CBR_RECOVER_BTB_MISS_NT_T_sum_total_pct,      100.000
+CBR_RECOVER_BTB_MISS_NT_T_mean,         0.67
+CBR_RECOVER_BTB_MISS_NT_T_stddev,         1.34
+CBR_RECOVER_BTB_MISS_NT_T_total_mean,         0.71
+CBR_RECOVER_BTB_MISS_NT_T_total_stddev,         1.33
+
+BR_CORRECT_count,         36647
+BR_CORRECT_pct,       99.823
+BR_CORRECT_total_count,         73103
+BR_CORRECT_total_pct,       99.303
+
+BR_RECOVER_count,            65
+BR_RECOVER_pct,        0.177
+BR_RECOVER_total_count,           513
+BR_RECOVER_total_pct,        0.697
+BR_RECOVER_sum_count,         36712
+BR_RECOVER_sum_pct,      100.000
+BR_RECOVER_sum_total_count,         73616
+BR_RECOVER_sum_total_pct,      100.000
+BR_RECOVER_mean,         0.00
+BR_RECOVER_stddev,         0.04
+BR_RECOVER_total_mean,         0.01
+BR_RECOVER_total_stddev,         0.08
+
+ICALL_CORRECT_IBTB_count,             0
+ICALL_CORRECT_IBTB_pct,         -nan
+ICALL_CORRECT_IBTB_total_count,             0
+ICALL_CORRECT_IBTB_total_pct,         -nan
+
+ICALL_CORRECT_BTB_count,             0
+ICALL_CORRECT_BTB_pct,         -nan
+ICALL_CORRECT_BTB_total_count,             0
+ICALL_CORRECT_BTB_total_pct,         -nan
+
+ICALL_RECOVER_IBTB_MISFETCH_count,             0
+ICALL_RECOVER_IBTB_MISFETCH_pct,         -nan
+ICALL_RECOVER_IBTB_MISFETCH_total_count,             0
+ICALL_RECOVER_IBTB_MISFETCH_total_pct,         -nan
+
+ICALL_RECOVER_BTB_MISFETCH_count,             0
+ICALL_RECOVER_BTB_MISFETCH_pct,         -nan
+ICALL_RECOVER_BTB_MISFETCH_total_count,             0
+ICALL_RECOVER_BTB_MISFETCH_total_pct,         -nan
+
+ICALL_RECOVER_XBTB_MISS_count,             0
+ICALL_RECOVER_XBTB_MISS_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_total_count,             0
+ICALL_RECOVER_XBTB_MISS_total_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_sum_count,             0
+ICALL_RECOVER_XBTB_MISS_sum_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_sum_total_count,             0
+ICALL_RECOVER_XBTB_MISS_sum_total_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_mean,         -nan
+ICALL_RECOVER_XBTB_MISS_stddev,         -nan
+ICALL_RECOVER_XBTB_MISS_total_mean,         -nan
+ICALL_RECOVER_XBTB_MISS_total_stddev,         -nan
+
+IBR_CORRECT_IBTB_count,         51513
+IBR_CORRECT_IBTB_pct,       72.951
+IBR_CORRECT_IBTB_total_count,        107045
+IBR_CORRECT_IBTB_total_pct,       75.087
+
+IBR_CORRECT_BTB_count,         19094
+IBR_CORRECT_BTB_pct,       27.040
+IBR_CORRECT_BTB_total_count,         35475
+IBR_CORRECT_BTB_total_pct,       24.884
+
+IBR_RECOVER_IBTB_MISFETCH_count,             4
+IBR_RECOVER_IBTB_MISFETCH_pct,        0.006
+IBR_RECOVER_IBTB_MISFETCH_total_count,             6
+IBR_RECOVER_IBTB_MISFETCH_total_pct,        0.004
+
+IBR_RECOVER_BTB_MISFETCH_count,             2
+IBR_RECOVER_BTB_MISFETCH_pct,        0.003
+IBR_RECOVER_BTB_MISFETCH_total_count,             4
+IBR_RECOVER_BTB_MISFETCH_total_pct,        0.003
+
+IBR_RECOVER_XBTB_MISS_count,             0
+IBR_RECOVER_XBTB_MISS_pct,        0.000
+IBR_RECOVER_XBTB_MISS_total_count,            32
+IBR_RECOVER_XBTB_MISS_total_pct,        0.022
+IBR_RECOVER_XBTB_MISS_sum_count,         70613
+IBR_RECOVER_XBTB_MISS_sum_pct,      100.000
+IBR_RECOVER_XBTB_MISS_sum_total_count,        142562
+IBR_RECOVER_XBTB_MISS_sum_total_pct,      100.000
+IBR_RECOVER_XBTB_MISS_mean,         0.27
+IBR_RECOVER_XBTB_MISS_stddev,         0.38
+IBR_RECOVER_XBTB_MISS_total_mean,         0.25
+IBR_RECOVER_XBTB_MISS_total_stddev,         0.38
+
+ICO_CORRECT_count,             0
+ICO_CORRECT_pct,         -nan
+ICO_CORRECT_total_count,             0
+ICO_CORRECT_total_pct,         -nan
+
+ICO_RECOVER_count,             0
+ICO_RECOVER_pct,         -nan
+ICO_RECOVER_total_count,             0
+ICO_RECOVER_total_pct,         -nan
+ICO_RECOVER_sum_count,             0
+ICO_RECOVER_sum_pct,         -nan
+ICO_RECOVER_sum_total_count,             0
+ICO_RECOVER_sum_total_pct,         -nan
+ICO_RECOVER_mean,         -nan
+ICO_RECOVER_stddev,         -nan
+ICO_RECOVER_total_mean,         -nan
+ICO_RECOVER_total_stddev,         -nan
+
+RET_CORRECT_count,         67937
+RET_CORRECT_pct,       99.868
+RET_CORRECT_total_count,        137305
+RET_CORRECT_total_pct,       99.869
+
+RET_RECOVER_count,            90
+RET_RECOVER_pct,        0.132
+RET_RECOVER_total_count,           176
+RET_RECOVER_total_pct,        0.128
+
+RET_RECOVER_UFLOW_count,             0
+RET_RECOVER_UFLOW_pct,        0.000
+RET_RECOVER_UFLOW_total_count,             4
+RET_RECOVER_UFLOW_total_pct,        0.003
+RET_RECOVER_UFLOW_sum_count,         68027
+RET_RECOVER_UFLOW_sum_pct,      100.000
+RET_RECOVER_UFLOW_sum_total_count,        137485
+RET_RECOVER_UFLOW_sum_total_pct,      100.000
+RET_RECOVER_UFLOW_mean,         0.00
+RET_RECOVER_UFLOW_stddev,         0.04
+RET_RECOVER_UFLOW_total_mean,         0.00
+RET_RECOVER_UFLOW_total_stddev,         0.04
+
+CALL_CORRECT_count,         67851
+CALL_CORRECT_pct,       99.740
+CALL_CORRECT_total_count,        135723
+CALL_CORRECT_total_pct,       98.718
+
+CALL_RECOVER_count,           177
+CALL_RECOVER_pct,        0.260
+CALL_RECOVER_total_count,          1763
+CALL_RECOVER_total_pct,        1.282
+CALL_RECOVER_sum_count,         68028
+CALL_RECOVER_sum_pct,      100.000
+CALL_RECOVER_sum_total_count,        137486
+CALL_RECOVER_sum_total_pct,      100.000
+CALL_RECOVER_mean,         0.00
+CALL_RECOVER_stddev,         0.05
+CALL_RECOVER_total_mean,         0.01
+CALL_RECOVER_total_stddev,         0.11
+
+BTB_CORRECT_count,       1917827
+BTB_CORRECT_pct,       91.163
+BTB_CORRECT_total_count,       3672461
+BTB_CORRECT_total_pct,       90.552
+
+BTB_INCORRECT_BUT_TARGET_CORRECT_count,             0
+BTB_INCORRECT_BUT_TARGET_CORRECT_pct,        0.000
+BTB_INCORRECT_BUT_TARGET_CORRECT_total_count,             0
+BTB_INCORRECT_BUT_TARGET_CORRECT_total_pct,        0.000
+
+BTB_INCORRECT_count,        185902
+BTB_INCORRECT_pct,        8.837
+BTB_INCORRECT_total_count,        383186
+BTB_INCORRECT_total_pct,        9.448
+BTB_INCORRECT_sum_count,       2103729
+BTB_INCORRECT_sum_pct,      100.000
+BTB_INCORRECT_sum_total_count,       4055647
+BTB_INCORRECT_sum_total_pct,      100.000
+BTB_INCORRECT_mean,         0.18
+BTB_INCORRECT_stddev,         0.54
+BTB_INCORRECT_total_mean,         0.19
+BTB_INCORRECT_total_stddev,         0.56
+
+IBTB_CORRECT_count,         51517
+IBTB_CORRECT_pct,       72.957
+IBTB_CORRECT_total_count,        107051
+IBTB_CORRECT_total_pct,       75.091
+
+IBTB_INCORRECT_count,         19096
+IBTB_INCORRECT_pct,       27.043
+IBTB_INCORRECT_total_count,         35511
+IBTB_INCORRECT_total_pct,       24.909
+IBTB_INCORRECT_sum_count,         70613
+IBTB_INCORRECT_sum_pct,      100.000
+IBTB_INCORRECT_sum_total_count,        142562
+IBTB_INCORRECT_sum_total_pct,      100.000
+IBTB_INCORRECT_mean,         0.27
+IBTB_INCORRECT_stddev,         0.40
+IBTB_INCORRECT_total_mean,         0.25
+IBTB_INCORRECT_total_stddev,         0.39
+
+CBR_CORRECT_OFF_PATH_count,       2456209
+CBR_CORRECT_OFF_PATH_pct,       22.993
+CBR_CORRECT_OFF_PATH_total_count,       4636900
+CBR_CORRECT_OFF_PATH_total_pct,       22.588
+
+CBR_CORRECT_BTB_MISS_NT_NT_OFF_PATH_count,        268708
+CBR_CORRECT_BTB_MISS_NT_NT_OFF_PATH_pct,        2.515
+CBR_CORRECT_BTB_MISS_NT_NT_OFF_PATH_total_count,        926370
+CBR_CORRECT_BTB_MISS_NT_NT_OFF_PATH_total_pct,        4.513
+
+CBR_RECOVER_MISPREDICT_OFF_PATH_count,       5270413
+CBR_RECOVER_MISPREDICT_OFF_PATH_pct,       49.337
+CBR_RECOVER_MISPREDICT_OFF_PATH_total_count,      10193334
+CBR_RECOVER_MISPREDICT_OFF_PATH_total_pct,       49.656
+
+CBR_RECOVER_MISFETCH_OFF_PATH_count,             0
+CBR_RECOVER_MISFETCH_OFF_PATH_pct,        0.000
+CBR_RECOVER_MISFETCH_OFF_PATH_total_count,             0
+CBR_RECOVER_MISFETCH_OFF_PATH_total_pct,        0.000
+
+CBR_RECOVER_BTB_MISS_T_T_OFF_PATH_count,          8560
+CBR_RECOVER_BTB_MISS_T_T_OFF_PATH_pct,        0.080
+CBR_RECOVER_BTB_MISS_T_T_OFF_PATH_total_count,         10960
+CBR_RECOVER_BTB_MISS_T_T_OFF_PATH_total_pct,        0.053
+
+CBR_RECOVER_BTB_MISS_T_NT_OFF_PATH_count,       2678120
+CBR_RECOVER_BTB_MISS_T_NT_OFF_PATH_pct,       25.070
+CBR_RECOVER_BTB_MISS_T_NT_OFF_PATH_total_count,       4759352
+CBR_RECOVER_BTB_MISS_T_NT_OFF_PATH_total_pct,       23.185
+
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_count,           393
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_pct,        0.004
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_total_count,           916
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_total_pct,        0.004
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_sum_count,      10682403
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_sum_pct,      100.000
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_sum_total_count,      20527832
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_sum_total_pct,      100.000
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_mean,         2.27
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_stddev,         1.40
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_total_mean,         2.20
+CBR_RECOVER_BTB_MISS_NT_T_OFF_PATH_total_stddev,         1.38
+
+BR_CORRECT_OFF_PATH_count,        469173
+BR_CORRECT_OFF_PATH_pct,       99.665
+BR_CORRECT_OFF_PATH_total_count,        916393
+BR_CORRECT_OFF_PATH_total_pct,       99.728
+
+BR_RECOVER_OFF_PATH_count,          1575
+BR_RECOVER_OFF_PATH_pct,        0.335
+BR_RECOVER_OFF_PATH_total_count,          2501
+BR_RECOVER_OFF_PATH_total_pct,        0.272
+BR_RECOVER_OFF_PATH_sum_count,        470748
+BR_RECOVER_OFF_PATH_sum_pct,      100.000
+BR_RECOVER_OFF_PATH_sum_total_count,        918894
+BR_RECOVER_OFF_PATH_sum_total_pct,      100.000
+BR_RECOVER_OFF_PATH_mean,         0.00
+BR_RECOVER_OFF_PATH_stddev,         0.06
+BR_RECOVER_OFF_PATH_total_mean,         0.00
+BR_RECOVER_OFF_PATH_total_stddev,         0.05
+
+ICALL_CORRECT_IBTB_OFF_PATH_count,             0
+ICALL_CORRECT_IBTB_OFF_PATH_pct,         -nan
+ICALL_CORRECT_IBTB_OFF_PATH_total_count,             0
+ICALL_CORRECT_IBTB_OFF_PATH_total_pct,         -nan
+
+ICALL_CORRECT_BTB_OFF_PATH_count,             0
+ICALL_CORRECT_BTB_OFF_PATH_pct,         -nan
+ICALL_CORRECT_BTB_OFF_PATH_total_count,             0
+ICALL_CORRECT_BTB_OFF_PATH_total_pct,         -nan
+
+ICALL_RECOVER_IBTB_MISFETCH_OFF_PATH_count,             0
+ICALL_RECOVER_IBTB_MISFETCH_OFF_PATH_pct,         -nan
+ICALL_RECOVER_IBTB_MISFETCH_OFF_PATH_total_count,             0
+ICALL_RECOVER_IBTB_MISFETCH_OFF_PATH_total_pct,         -nan
+
+ICALL_RECOVER_BTB_MISFETCH_OFF_PATH_count,             0
+ICALL_RECOVER_BTB_MISFETCH_OFF_PATH_pct,         -nan
+ICALL_RECOVER_BTB_MISFETCH_OFF_PATH_total_count,             0
+ICALL_RECOVER_BTB_MISFETCH_OFF_PATH_total_pct,         -nan
+
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_count,             0
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_total_count,             0
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_total_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_sum_count,             0
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_sum_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_sum_total_count,             0
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_sum_total_pct,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_mean,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_stddev,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_total_mean,         -nan
+ICALL_RECOVER_XBTB_MISS_OFF_PATH_total_stddev,         -nan
+
+IBR_CORRECT_IBTB_OFF_PATH_count,         81417
+IBR_CORRECT_IBTB_OFF_PATH_pct,       10.409
+IBR_CORRECT_IBTB_OFF_PATH_total_count,        139175
+IBR_CORRECT_IBTB_OFF_PATH_total_pct,        9.751
+
+IBR_CORRECT_BTB_OFF_PATH_count,        700697
+IBR_CORRECT_BTB_OFF_PATH_pct,       89.587
+IBR_CORRECT_BTB_OFF_PATH_total_count,       1288050
+IBR_CORRECT_BTB_OFF_PATH_total_pct,       90.245
+
+IBR_RECOVER_IBTB_MISFETCH_OFF_PATH_count,            27
+IBR_RECOVER_IBTB_MISFETCH_OFF_PATH_pct,        0.003
+IBR_RECOVER_IBTB_MISFETCH_OFF_PATH_total_count,            48
+IBR_RECOVER_IBTB_MISFETCH_OFF_PATH_total_pct,        0.003
+
+IBR_RECOVER_BTB_MISFETCH_OFF_PATH_count,             0
+IBR_RECOVER_BTB_MISFETCH_OFF_PATH_pct,        0.000
+IBR_RECOVER_BTB_MISFETCH_OFF_PATH_total_count,             0
+IBR_RECOVER_BTB_MISFETCH_OFF_PATH_total_pct,        0.000
+
+IBR_RECOVER_XBTB_MISS_OFF_PATH_count,             2
+IBR_RECOVER_XBTB_MISS_OFF_PATH_pct,        0.000
+IBR_RECOVER_XBTB_MISS_OFF_PATH_total_count,             3
+IBR_RECOVER_XBTB_MISS_OFF_PATH_total_pct,        0.000
+IBR_RECOVER_XBTB_MISS_OFF_PATH_sum_count,        782143
+IBR_RECOVER_XBTB_MISS_OFF_PATH_sum_pct,      100.000
+IBR_RECOVER_XBTB_MISS_OFF_PATH_sum_total_count,       1427276
+IBR_RECOVER_XBTB_MISS_OFF_PATH_sum_total_pct,      100.000
+IBR_RECOVER_XBTB_MISS_OFF_PATH_mean,         0.90
+IBR_RECOVER_XBTB_MISS_OFF_PATH_stddev,         0.10
+IBR_RECOVER_XBTB_MISS_OFF_PATH_total_mean,         0.90
+IBR_RECOVER_XBTB_MISS_OFF_PATH_total_stddev,         0.09
+
+ICO_CORRECT_OFF_PATH_count,             0
+ICO_CORRECT_OFF_PATH_pct,         -nan
+ICO_CORRECT_OFF_PATH_total_count,             0
+ICO_CORRECT_OFF_PATH_total_pct,         -nan
+
+ICO_RECOVER_OFF_PATH_count,             0
+ICO_RECOVER_OFF_PATH_pct,         -nan
+ICO_RECOVER_OFF_PATH_total_count,             0
+ICO_RECOVER_OFF_PATH_total_pct,         -nan
+ICO_RECOVER_OFF_PATH_sum_count,             0
+ICO_RECOVER_OFF_PATH_sum_pct,         -nan
+ICO_RECOVER_OFF_PATH_sum_total_count,             0
+ICO_RECOVER_OFF_PATH_sum_total_pct,         -nan
+ICO_RECOVER_OFF_PATH_mean,         -nan
+ICO_RECOVER_OFF_PATH_stddev,         -nan
+ICO_RECOVER_OFF_PATH_total_mean,         -nan
+ICO_RECOVER_OFF_PATH_total_stddev,         -nan
+
+RET_CORRECT_OFF_PATH_count,        389756
+RET_CORRECT_OFF_PATH_pct,       47.145
+RET_CORRECT_OFF_PATH_total_count,        707306
+RET_CORRECT_OFF_PATH_total_pct,       45.487
+
+RET_RECOVER_OFF_PATH_count,        436491
+RET_RECOVER_OFF_PATH_pct,       52.798
+RET_RECOVER_OFF_PATH_total_count,        846764
+RET_RECOVER_OFF_PATH_total_pct,       54.456
+
+RET_RECOVER_UFLOW_OFF_PATH_count,           472
+RET_RECOVER_UFLOW_OFF_PATH_pct,        0.057
+RET_RECOVER_UFLOW_OFF_PATH_total_count,           894
+RET_RECOVER_UFLOW_OFF_PATH_total_pct,        0.057
+RET_RECOVER_UFLOW_OFF_PATH_sum_count,        826719
+RET_RECOVER_UFLOW_OFF_PATH_sum_pct,      100.000
+RET_RECOVER_UFLOW_OFF_PATH_sum_total_count,       1554964
+RET_RECOVER_UFLOW_OFF_PATH_sum_total_pct,      100.000
+RET_RECOVER_UFLOW_OFF_PATH_mean,         0.53
+RET_RECOVER_UFLOW_OFF_PATH_stddev,         0.34
+RET_RECOVER_UFLOW_OFF_PATH_total_mean,         0.55
+RET_RECOVER_UFLOW_OFF_PATH_total_stddev,         0.34
+
+CALL_CORRECT_OFF_PATH_count,        781220
+CALL_CORRECT_OFF_PATH_pct,       98.565
+CALL_CORRECT_OFF_PATH_total_count,       1423977
+CALL_CORRECT_OFF_PATH_total_pct,       98.764
+
+CALL_RECOVER_OFF_PATH_count,         11375
+CALL_RECOVER_OFF_PATH_pct,        1.435
+CALL_RECOVER_OFF_PATH_total_count,         17823
+CALL_RECOVER_OFF_PATH_total_pct,        1.236
+CALL_RECOVER_OFF_PATH_sum_count,        792595
+CALL_RECOVER_OFF_PATH_sum_pct,      100.000
+CALL_RECOVER_OFF_PATH_sum_total_count,       1441800
+CALL_RECOVER_OFF_PATH_sum_total_pct,      100.000
+CALL_RECOVER_OFF_PATH_mean,         0.01
+CALL_RECOVER_OFF_PATH_stddev,         0.12
+CALL_RECOVER_OFF_PATH_total_mean,         0.01
+CALL_RECOVER_OFF_PATH_total_stddev,         0.11
+
+BTB_CORRECT_OFF_PATH_count,       9759156
+BTB_CORRECT_OFF_PATH_pct,       76.675
+BTB_CORRECT_OFF_PATH_total_count,      18597877
+BTB_CORRECT_OFF_PATH_total_pct,       76.485
+
+BTB_INCORRECT_BUT_TARGET_CORRECT_OFF_PATH_count,             0
+BTB_INCORRECT_BUT_TARGET_CORRECT_OFF_PATH_pct,        0.000
+BTB_INCORRECT_BUT_TARGET_CORRECT_OFF_PATH_total_count,             0
+BTB_INCORRECT_BUT_TARGET_CORRECT_OFF_PATH_total_pct,        0.000
+
+BTB_INCORRECT_OFF_PATH_count,       2968733
+BTB_INCORRECT_OFF_PATH_pct,       23.325
+BTB_INCORRECT_OFF_PATH_total_count,       5717925
+BTB_INCORRECT_OFF_PATH_total_pct,       23.515
+BTB_INCORRECT_OFF_PATH_sum_count,      12727889
+BTB_INCORRECT_OFF_PATH_sum_pct,      100.000
+BTB_INCORRECT_OFF_PATH_sum_total_count,      24315802
+BTB_INCORRECT_OFF_PATH_sum_total_pct,      100.000
+BTB_INCORRECT_OFF_PATH_mean,         0.47
+BTB_INCORRECT_OFF_PATH_stddev,         0.77
+BTB_INCORRECT_OFF_PATH_total_mean,         0.47
+BTB_INCORRECT_OFF_PATH_total_stddev,         0.78
+
+IBTB_CORRECT_OFF_PATH_count,         81444
+IBTB_CORRECT_OFF_PATH_pct,       10.413
+IBTB_CORRECT_OFF_PATH_total_count,        139223
+IBTB_CORRECT_OFF_PATH_total_pct,        9.754
+
+IBTB_INCORRECT_OFF_PATH_count,        700699
+IBTB_INCORRECT_OFF_PATH_pct,       89.587
+IBTB_INCORRECT_OFF_PATH_total_count,       1288053
+IBTB_INCORRECT_OFF_PATH_total_pct,       90.246
+IBTB_INCORRECT_OFF_PATH_sum_count,        782143
+IBTB_INCORRECT_OFF_PATH_sum_pct,      100.000
+IBTB_INCORRECT_OFF_PATH_sum_total_count,       1427276
+IBTB_INCORRECT_OFF_PATH_sum_total_pct,      100.000
+IBTB_INCORRECT_OFF_PATH_mean,         0.90
+IBTB_INCORRECT_OFF_PATH_stddev,         0.85
+IBTB_INCORRECT_OFF_PATH_total_mean,         0.90
+IBTB_INCORRECT_OFF_PATH_total_stddev,         0.86
+
+BP_EXEC_RECOVERIES_count,        386052
+BP_EXEC_RECOVERIES_pct,       99.835
+BP_EXEC_RECOVERIES_total_count,        809692
+BP_EXEC_RECOVERIES_total_pct,       99.458
+
+BP_DECODE_RECOVERIES_count,           637
+BP_DECODE_RECOVERIES_pct,        0.165
+BP_DECODE_RECOVERIES_total_count,          4415
+BP_DECODE_RECOVERIES_total_pct,        0.542
+BP_DECODE_RECOVERIES_sum_count,        386689
+BP_DECODE_RECOVERIES_sum_pct,      100.000
+BP_DECODE_RECOVERIES_sum_total_count,        814107
+BP_DECODE_RECOVERIES_sum_total_pct,      100.000
+BP_DECODE_RECOVERIES_mean,         0.00
+BP_DECODE_RECOVERIES_stddev,         0.04
+BP_DECODE_RECOVERIES_total_mean,         0.01
+BP_DECODE_RECOVERIES_total_stddev,         0.07
+
+SCHEDULED_EXEC_RECOVERIES_count,        386051
+SCHEDULED_EXEC_RECOVERIES_pct,       99.835
+SCHEDULED_EXEC_RECOVERIES_total_count,        809691
+SCHEDULED_EXEC_RECOVERIES_total_pct,       99.458
+
+SCHEDULED_DECODE_RECOVERIES_count,           637
+SCHEDULED_DECODE_RECOVERIES_pct,        0.165
+SCHEDULED_DECODE_RECOVERIES_total_count,          4415
+SCHEDULED_DECODE_RECOVERIES_total_pct,        0.542
+SCHEDULED_DECODE_RECOVERIES_sum_count,        386688
+SCHEDULED_DECODE_RECOVERIES_sum_pct,      100.000
+SCHEDULED_DECODE_RECOVERIES_sum_total_count,        814106
+SCHEDULED_DECODE_RECOVERIES_sum_total_pct,      100.000
+SCHEDULED_DECODE_RECOVERIES_mean,         0.00
+SCHEDULED_DECODE_RECOVERIES_stddev,         0.04
+SCHEDULED_DECODE_RECOVERIES_total_mean,         0.01
+SCHEDULED_DECODE_RECOVERIES_total_stddev,         0.07
+
+PERFORMED_EXEC_RECOVERIES_count,        386688
+PERFORMED_EXEC_RECOVERIES_pct,      100.000
+PERFORMED_EXEC_RECOVERIES_total_count,        814106
+PERFORMED_EXEC_RECOVERIES_total_pct,      100.000
+
+PERFORMED_DECODE_RECOVERIES_count,             0
+PERFORMED_DECODE_RECOVERIES_pct,        0.000
+PERFORMED_DECODE_RECOVERIES_total_count,             0
+PERFORMED_DECODE_RECOVERIES_total_pct,        0.000
+PERFORMED_DECODE_RECOVERIES_sum_count,        386688
+PERFORMED_DECODE_RECOVERIES_sum_pct,      100.000
+PERFORMED_DECODE_RECOVERIES_sum_total_count,        814106
+PERFORMED_DECODE_RECOVERIES_sum_total_pct,      100.000
+PERFORMED_DECODE_RECOVERIES_mean,         0.00
+PERFORMED_DECODE_RECOVERIES_stddev,         0.00
+PERFORMED_DECODE_RECOVERIES_total_mean,         0.00
+PERFORMED_DECODE_RECOVERIES_total_stddev,         0.00
+
+PERFORMED_RECOVERY_LAT_count,      11277968
+PERFORMED_RECOVERY_LAT_total_count,      22727482
+
+SCHEDULED_DECODE_LAT_count,         36886
+SCHEDULED_DECODE_LAT_total_count,        139556
+
+SCHEDULED_EXEC_LAT_count,      10468343
+SCHEDULED_EXEC_LAT_total_count,      20964129
+
+
+
